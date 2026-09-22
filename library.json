@@ -1,0 +1,360 @@
+{
+  "car": {
+    "paths": [
+      "sport-car-isolated-on-transparent-background-3d-rendering-illustration-free-png.webp",
+      "pixabay_33633.png"
+    ],
+    "q": "What we could use it to take the road?",
+    "a": "A sport car will be useful to take the road and enjoy the ride.",
+    "sha256s": {
+      "sport-car-isolated-on-transparent-background-3d-rendering-illustration-free-png.webp": "9274c9c543b900d738e1d84f18fe340e5bd53c5de927ba3bd71f6d8e9df17ed0",
+      "pixabay_33633.png": "55e4f914bf10a10cdac5ebf4646c84d83414921eed569815a0058d4b57478619"
+    }
+  },
+  "plane": {
+    "paths": [
+      "fighter-jet-6115624_1280.png",
+      "pixabay_8131428.png"
+    ],
+    "q": "What we could ue it to flight?",
+    "a": "A plane could flight hight and take us to the other site.",
+    "sha256s": {
+      "fighter-jet-6115624_1280.png": "abc0e404e8f2035098b1dd7e81cb01b97fc25a5ff02410d8643528cca7d8aa2c",
+      "pixabay_8131428.png": "44c24bd704cbcee078845fb6a802f9d58835f9aa69e5759788bcbcb2f326fea2"
+    }
+  },
+  "tank": {
+    "paths": [
+      "abrams-transparent51375.png34112.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "abrams-transparent51375.png34112.png": "39646ceb8a095864b24c20f2a99d1f8f90e482073305688e16f4991ac2d2a85a"
+    }
+  },
+  "dog": {
+    "paths": [
+      "pixabay_4495102.png"
+    ],
+    "q": "What we could use it to take off the cat from here?",
+    "a": "A dog coud run behind the cat.",
+    "sha256s": {
+      "pixabay_4495102.png": "1101141820d03c2f6e530dc6b2ea29a18cc76055e87cc29b36ad39b3f6272cdc"
+    }
+  },
+  "jet": {
+    "paths": [
+      "pixabay_146241.png"
+    ],
+    "q": "What we could we use it to flight?",
+    "a": "A plane could flight hight and take us to the other site.",
+    "sha256s": {
+      "pixabay_146241.png": "87f96fa4d390e122725756e4d6d1ebac9f003320d5fa2e7f570d6b9abdd104be"
+    }
+  },
+  "airplane": {
+    "paths": [
+      "pixabay_1293763.png"
+    ],
+    "q": "What we could ue it to flight?",
+    "a": "A plane could flight hight and take us to the other site.",
+    "sha256s": {
+      "pixabay_1293763.png": "7d15b55d9c616a1bfdf6e8bde198e0db1e80651df1f6f84e358ebf90e692d30e"
+    }
+  },
+  "rocket": {
+    "paths": [
+      "pixabay_153227.png"
+    ],
+    "q": "What we could use it to flight to the space?",
+    "a": "A rocket could help us to flight direcly to the moon.",
+    "sha256s": {
+      "pixabay_153227.png": "a4d234698022da26f931ba432474a4e1ea31c86404f4b3d3c63b70b693d08bb0"
+    }
+  },
+  "kitten": {
+    "paths": [
+      "pixabay_4794761.png"
+    ],
+    "q": "What we could use to take out a mouse from our house?",
+    "a": "A cat will run behind the mouse.",
+    "sha256s": {
+      "pixabay_4794761.png": "deb3394026df1586e6a49c96934fa651957e117ed4a96031e98a256c98b145a8"
+    }
+  },
+  "droid": {
+    "paths": [
+      "pixabay_153990.png"
+    ],
+    "q": "What could help us in our day by day basis?",
+    "a": "A droid could help us.",
+    "sha256s": {
+      "pixabay_153990.png": "66436f9aff916152043993e34a26d074d3765acba9addc071e7b7ee9204632e9"
+    }
+  },
+  "boat": {
+    "paths": [
+      "pixabay_1297487.png",
+      "pixabay_1295116.png"
+    ],
+    "q": "What we use to sail the ocean?",
+    "a": "A boat could help us to sail.",
+    "sha256s": {
+      "pixabay_1297487.png": "59a4e4127852aa0810c4262048776bbdf9cb6b9472e45ddda3deb57d43d0498a",
+      "pixabay_1295116.png": "600af55b49feedb761276cd9d4b9822fd0d2f58dbadbbf882acc669df74570cc"
+    }
+  },
+  "robotic dog": {
+    "paths": [
+      "pixabay_29431.png"
+    ],
+    "q": "What we could use as a dog?",
+    "a": "A robotic dog could help us to use it as a dog.",
+    "sha256s": {
+      "pixabay_29431.png": "c2ec4c9677e52b776b1807b549ff6be0346ea3d1f20d842422eab074eb46dd31"
+    }
+  },
+  "space shuttle": {
+    "paths": [
+      "pixabay_2029393.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "pixabay_2029393.png": "7ba6e990fb42c1300b7b89f71eb60e58783941fb2a32fa705c1077674750d067"
+    }
+  },
+  "flash light": {
+    "paths": [
+      "pixabay_159858.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "pixabay_159858.png": "2530a96c3261632f3900ad7411cc16770e55a4210e36438bcdf16950765b8b8f"
+    }
+  },
+  "bulb light": {
+    "paths": [
+      "pixabay_310821.png"
+    ],
+    "q": "What we could use it to iluminate the room?",
+    "a": "A bulb light could help us to bring light to the dark",
+    "sha256s": {
+      "pixabay_310821.png": "aa3a07188526f2397a8e581b4524b3d411662ac7febf1e9f524b45079323705c"
+    }
+  },
+  "notebook": {
+    "paths": [
+      "CuadernostudioA5Rayado_pinksand_CU091301_01_1200x1200.webp"
+    ],
+    "q": "What we could use to write?",
+    "a": "A notebook will help us",
+    "sha256s": {
+      "CuadernostudioA5Rayado_pinksand_CU091301_01_1200x1200.webp": "261d8ab3bd6c8a34595a6ea34c712a854c53a01a1bb1f29f6f8978aa6b313109"
+    }
+  },
+  "hammer": {
+    "paths": [
+      "51-072_2.png"
+    ],
+    "q": "let´s see a hammer. and the mystery mouseketool. witch mouseketool can we use to fix the chair?",
+    "a": "the chair! that´s right! we can the fix the hammer with the chair let´s use it! we got eaers say cheers",
+    "sha256s": {
+      "51-072_2.png": "be39a1f27beff5361ad848450f871947512ed8ef097a4dfb6612c2e747cf04c6"
+    }
+  },
+  "sticky glue": {
+    "paths": [
+      "CLEAR-GLUE-FRONT-5-Oz-scaled.png"
+    ],
+    "q": "sh",
+    "a": "sh",
+    "sha256s": {
+      "CLEAR-GLUE-FRONT-5-Oz-scaled.png": "e57db786685c094870c61b64f5b40f0a995f0b93b89df2f86570fe9c821b5055"
+    }
+  },
+  "school bus": {
+    "paths": [
+      "schoolbus.webp"
+    ],
+    "q": "sch",
+    "a": "sch",
+    "sha256s": {
+      "schoolbus.webp": "3fe9aa7db1f0a9f351b936099493c6edb26763e3aa5ddd8bbb3a97f50a79a7ab"
+    }
+  },
+  "spyglass": {
+    "paths": [
+      "pixabay_10417309.png"
+    ],
+    "q": "What we could use it to see close?",
+    "a": "A spyglass could help us to see closer.",
+    "sha256s": {
+      "pixabay_10417309.png": "ba4c154c7d7aa97bbd716a4883c1228f671c83d7fb2f9d05fab0e076b1fefd77"
+    }
+  },
+  "compass": {
+    "paths": [
+      "pixabay_7933587.png",
+      "pixabay_154923.png"
+    ],
+    "q": "what we could use it to found the north?",
+    "a": "A compass will help us to know where the cardinal points are.",
+    "sha256s": {
+      "pixabay_7933587.png": "0ccbfac9949470be5062449a2244fe34a56df64f9a2c686c70606463ad9b824d",
+      "pixabay_154923.png": "609efeeee54cb5b17f3c76e2f224864fa5b22a2b54e68aa5578282d1b0ddc236"
+    }
+  },
+  "hook": {
+    "paths": [
+      "pixabay_307153.png"
+    ],
+    "q": "What we could use to take something?",
+    "a": "A hook could be used.",
+    "sha256s": {
+      "pixabay_307153.png": "6725434930100ddcd44518333c3221a3c0808edfe8a80a4971f443c6bc69a040"
+    }
+  },
+  "machete": {
+    "paths": [
+      "pixabay_2024291.png"
+    ],
+    "q": "What we could use to clear the path?",
+    "a": "A machete could be used to clear the path.",
+    "sha256s": {
+      "pixabay_2024291.png": "07052bb8ac8a4e779b4be631521dd8e5488033d16e983abc251f9cda5407cf34"
+    }
+  },
+  "lantern": {
+    "paths": [
+      "pixabay_7606785.png"
+    ],
+    "q": "what we could use it to light the dark?",
+    "a": "A lantern could help us to light the darkness.",
+    "sha256s": {
+      "pixabay_7606785.png": "f7532f4e6492738ab3b1aa9398bbdbb854a9e0d46bbf2834c51aa8b21b4b9cbb"
+    }
+  },
+  "shovel": {
+    "paths": [
+      "pixabay_7846855.png"
+    ],
+    "q": "What we could use it to dig?",
+    "a": "The shovel could help us to dig.",
+    "sha256s": {
+      "pixabay_7846855.png": "6c67cba8cdb35376e15493136652d2a49c0a4301aabd4416dff4566ca6fd37e7"
+    }
+  },
+  "chisel": {
+    "paths": [
+      "chisel.webp"
+    ],
+    "q": "What we could use it for cut, carve, shape, or remove material from wood, stone, or metal?",
+    "a": "A chisel could help us to remove the symbol.",
+    "sha256s": {
+      "chisel.webp": "8d3b7c0c527764ada88c12f0c947825c6b16426df8242061fceec850b66c0fbf"
+    }
+  },
+  "helmet diving": {
+    "paths": [
+      "helmet.webp"
+    ],
+    "q": "What can we use to go to the depths of the sea?",
+    "a": "The helmet can help us walk comfortably in the depths of the sea.",
+    "sha256s": {
+      "helmet.webp": "8b709f71a07e0a7568ac0fca89933637ae2d8875038d0d496990ad697dd7a8bd"
+    }
+  },
+  "wrench": {
+    "paths": [
+      "wrench.webp"
+    ],
+    "q": "How we could grip, turn, fasten, or loosen nuts, bolts, and pipes by applying torque?",
+    "a": "The wrench will be the perfect tool to loosen applying torque.",
+    "sha256s": {
+      "wrench.webp": "9352e16055ca3412f7a97d898a539cb07eedc7f3b819a8017a6c4fd978d7fe5e"
+    }
+  },
+  "axe": {
+    "paths": [
+      "axe.jpeg"
+    ],
+    "q": "What we could use for chopping wood?",
+    "a": "An Axe could help us to chopping wood and open the path.",
+    "sha256s": {
+      "axe.jpeg": "befc2a7a82a8ece06ec6da1fab56db921bc45fe61af0f20e1ed015a6fa41d027"
+    }
+  },
+  "rope ladder": {
+    "paths": [
+      "escalera-cuerdas2.jpeg"
+    ],
+    "q": "How can we climb high up the rock?",
+    "a": "The rope ladder will help us to climb high up the rock.",
+    "sha256s": {
+      "escalera-cuerdas2.jpeg": "f8a7ac02dd62d31ff0731cf8a7bc0668640e5781a15b018e8cd51a344cb19f40"
+    }
+  },
+  "keys": {
+    "paths": [
+      "llaves.webp"
+    ],
+    "q": "What we could use to open the door?",
+    "a": "The keys could help us to open it.",
+    "sha256s": {
+      "llaves.webp": "bf310e4234f8096e0df20797b200a62c0fb535d1fda8741649c6d5e8459f2394"
+    }
+  },
+  "lever": {
+    "paths": [
+      "palanca.webp"
+    ],
+    "q": "What can we use to apply force and release the mechanism?",
+    "a": "The lever could help us to release the mechanism.",
+    "sha256s": {
+      "palanca.webp": "37804367f6832dbe3ee68ba96c69d21893849b9fffacf5fe0c392414cbfefca9"
+    }
+  },
+  "map": {
+    "paths": [
+      "mapa.png"
+    ],
+    "q": "What we could use it to know where we are?",
+    "a": "A map is great to understand where we are.",
+    "sha256s": {
+      "mapa.png": "ac1a8e60e49b6ec89f163ac3b23235f53033a6191eef23efb2ff2819d5b321fb"
+    }
+  },
+  "money": {
+    "paths": [
+      "pixabay_155597.png"
+    ],
+    "q": "What we could use it to pay?",
+    "a": "Money will help us to pay.",
+    "sha256s": {
+      "pixabay_155597.png": "4968521d6e7f3e72bf20ce85be109981fcaebc95e3edf0f9f8f42237eaecc239"
+    }
+  },
+  "movie ticket": {
+    "paths": [
+      "pixabay_153937.png"
+    ],
+    "q": "What we could use it to enter the cinema?",
+    "a": "The movie ticket allow us to enter and see the movie.",
+    "sha256s": {
+      "pixabay_153937.png": "75c9446f727a3a77635a443da6877471d68540a2e3476372bf24268f0d63f44b"
+    }
+  },
+  "popcorn": {
+    "paths": [
+      "pixabay_161953.png"
+    ],
+    "q": "What we could eat when we see the movie?",
+    "a": "Popcorn is really good for watch movies.",
+    "sha256s": {
+      "pixabay_161953.png": "9004f02429d654077e2b376f607d251e982adff46ca6a921f64ab925ec189bbb"
+    }
+  }
+}
