@@ -783,14 +783,16 @@
     "paths": [
       "dl563yd-6630a2b3-ac14-4b6f-9334-27fb95e523fd.png",
       "handy_fishing_rod_9_by_cddavies08_dljvunj-fullview.png",
-      "dkrh8ou-e2c6a626-4c11-45cb-8e76-e4c99be56a38.png"
+      "dkrh8ou-e2c6a626-4c11-45cb-8e76-e4c99be56a38.png",
+      "dm6ntvx-5ba19d0f-8227-4b70-a806-aee043781a45.png"
     ],
     "q": "",
     "a": "",
     "sha256s": {
       "dl563yd-6630a2b3-ac14-4b6f-9334-27fb95e523fd.png": "dff89d587a9dbff6577b1b043f90d11b0081c91c7ed235890d03fb39fd130eda",
       "handy_fishing_rod_9_by_cddavies08_dljvunj-fullview.png": "9183832294547bcc6362c4b94b2bbf7780ac3f387125687e8a5169747ae6818e",
-      "dkrh8ou-e2c6a626-4c11-45cb-8e76-e4c99be56a38.png": "ddb422325c9fc7d44332cb8daca378125ca9f4349e81588fafea74c42e69e48b"
+      "dkrh8ou-e2c6a626-4c11-45cb-8e76-e4c99be56a38.png": "ddb422325c9fc7d44332cb8daca378125ca9f4349e81588fafea74c42e69e48b",
+      "dm6ntvx-5ba19d0f-8227-4b70-a806-aee043781a45.png": "9183832294547bcc6362c4b94b2bbf7780ac3f387125687e8a5169747ae6818e"
     }
   },
   "hammer": {
@@ -1197,6 +1199,116 @@
     "a": "",
     "sha256s": {
       "dm6r87v-0bc94485-fc84-47c4-ab47-201863e57044.png": "5f8cbc7528068ad5310fb35d315b3dbf927af8db184aabfd38fca2632c2d5b26"
+    }
+  },
+  "squidward": {
+    "paths": [
+      "image (1).png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "image (1).png": "151cb0a7a55d4ec072aefee08ac21f0edb18d5f5dcfe5be2bcd3b110cf4ba71e"
+    }
+  },
+  "patrick": {
+    "paths": [
+      "image.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "image.png": "7f565206ed6c27ab045a646151373e1f4aa0bfcf581f154d4e6401223d93ee89"
+    }
+  },
+  "mr krabs": {
+    "paths": [
+      "image_2 (1).png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "image_2 (1).png": "97347cbfd12af4546210379412c39be950fbff96b708adea12d0d114857466f5"
+    }
+  },
+  "spongebob": {
+    "paths": [
+      "image_2.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "image_2.png": "0dc53da6747d6414405821bb9a02fae28a82bd98bb745224accf2eee40fa13d0"
+    }
+  },
+  "giant candy cane": {
+    "paths": [
+      "dm6lms5-429750e9-f593-46c5-8be6-5661cc95f484.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dm6lms5-429750e9-f593-46c5-8be6-5661cc95f484.png": "ca84103fe2ac0559d06dc9bd1d64952f645c2a59876742bb09e03cddeee08373"
+    }
+  },
+  "spy glass": {
+    "paths": [
+      "dm6lms5-47ec05cf-a886-4fd4-b562-ee85a6193d4b.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dm6lms5-47ec05cf-a886-4fd4-b562-ee85a6193d4b.png": "19f374b5a5fb43e3a4c183126b2d63688f979aeb32874543571459860d8182b9"
+    }
+  },
+  "shape stickers": {
+    "paths": [
+      "dm6lms5-2c4a7dda-c129-41f6-a0f3-239c89ac86a3.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dm6lms5-2c4a7dda-c129-41f6-a0f3-239c89ac86a3.png": "539078a8317cc3ffe872336ef04d44af0449a9f3f913b765446bd5971fbf9307"
+    }
+  },
+  "willie the giant": {
+    "paths": [
+      "dm6lms5-c7115308-1fc9-4a5e-9bd6-8d2322900904.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dm6lms5-c7115308-1fc9-4a5e-9bd6-8d2322900904.png": "3c05bcd409ed0edea0a66dd2c5ce84be73cab41d19b35c6146d62864f5a76cae"
+    }
+  },
+  "bucket with the rope": {
+    "paths": [
+      "dkd1npg-89e0c1b8-c272-46f5-aa8e-2a9568ab2514.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dkd1npg-89e0c1b8-c272-46f5-aa8e-2a9568ab2514.png": "6dad45ee22feac0bb6ea466939cd3305b3e2cd58816669025ad2ea91f8eefcb8"
+    }
+  },
+  "xylophone": {
+    "paths": [
+      "dm6ntvx-1edaff28-9def-4000-8b14-d76881cfa4f7.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dm6ntvx-1edaff28-9def-4000-8b14-d76881cfa4f7.png": "20680b77da13c578ad80499041f3cb0be1f9a8b8dd9bd3a01c2dba8f1ad6f9e1"
+    }
+  },
+  "pete": {
+    "paths": [
+      "dm6ntvx-ac2d80b5-fed8-4321-9f78-d52ae96a63c3.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dm6ntvx-ac2d80b5-fed8-4321-9f78-d52ae96a63c3.png": "0b53d135ad0ab72d844673bb8c47a0739f6be94b5aea3f79461cb5121881a648"
     }
   }
 }
