@@ -1,10 +1,409 @@
 {
+  "car": {
+    "paths": [
+      "sport-car-isolated-on-transparent-background-3d-rendering-illustration-free-png.webp",
+      "pixabay_33633.png",
+      "car-158795_1280.png"
+    ],
+    "q": "What we could use to take the road?",
+    "a": "A nice and sport car could help us to enjoy the road.",
+    "sha256s": {
+      "sport-car-isolated-on-transparent-background-3d-rendering-illustration-free-png.webp": "9274c9c543b900d738e1d84f18fe340e5bd53c5de927ba3bd71f6d8e9df17ed0",
+      "pixabay_33633.png": "55e4f914bf10a10cdac5ebf4646c84d83414921eed569815a0058d4b57478619",
+      "car-158795_1280.png": "2c018c3c5da468e13f8c942978dd993afcf063fb1a71b50ee158d449a7194234"
+    }
+  },
+  "plane": {
+    "paths": [
+      "fighter-jet-6115624_1280.png",
+      "pixabay_8131428.png",
+      "white-airplane-flying-against-transparent-background-airplane-in-flight-isolated-plane-png.webp"
+    ],
+    "q": "What we could use to flight?",
+    "a": "A plane could help us to flight and go away quickly.",
+    "sha256s": {
+      "fighter-jet-6115624_1280.png": "abc0e404e8f2035098b1dd7e81cb01b97fc25a5ff02410d8643528cca7d8aa2c",
+      "pixabay_8131428.png": "44c24bd704cbcee078845fb6a802f9d58835f9aa69e5759788bcbcb2f326fea2",
+      "white-airplane-flying-against-transparent-background-airplane-in-flight-isolated-plane-png.webp": "fe05b5b188248e4d4855d791210de923e7fa4e1a39ab8e8dbb29ec825ab481f2"
+    }
+  },
+  "tank": {
+    "paths": [
+      "abrams-transparent51375.png34112.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "abrams-transparent51375.png34112.png": "39646ceb8a095864b24c20f2a99d1f8f90e482073305688e16f4991ac2d2a85a"
+    }
+  },
+  "dog": {
+    "paths": [
+      "pixabay_4495102.png"
+    ],
+    "q": "What we could use it to take off the cat from here?",
+    "a": "A dog coud run behind the cat.",
+    "sha256s": {
+      "pixabay_4495102.png": "1101141820d03c2f6e530dc6b2ea29a18cc76055e87cc29b36ad39b3f6272cdc"
+    }
+  },
+  "jet": {
+    "paths": [
+      "pixabay_146241.png"
+    ],
+    "q": "What we could we use it to flight?",
+    "a": "A plane could flight hight and take us to the other site.",
+    "sha256s": {
+      "pixabay_146241.png": "87f96fa4d390e122725756e4d6d1ebac9f003320d5fa2e7f570d6b9abdd104be"
+    }
+  },
+  "airplane": {
+    "paths": [
+      "pixabay_1293763.png"
+    ],
+    "q": "What we could ue it to flight?",
+    "a": "A plane could flight hight and take us to the other site.",
+    "sha256s": {
+      "pixabay_1293763.png": "7d15b55d9c616a1bfdf6e8bde198e0db1e80651df1f6f84e358ebf90e692d30e"
+    }
+  },
+  "rocket": {
+    "paths": [
+      "pixabay_153227.png"
+    ],
+    "q": "What we could use it to flight to the space?",
+    "a": "A rocket could help us to flight direcly to the moon.",
+    "sha256s": {
+      "pixabay_153227.png": "a4d234698022da26f931ba432474a4e1ea31c86404f4b3d3c63b70b693d08bb0"
+    }
+  },
+  "kitten": {
+    "paths": [
+      "pixabay_4794761.png"
+    ],
+    "q": "What we could use to take out a mouse from our house?",
+    "a": "A cat will run behind the mouse.",
+    "sha256s": {
+      "pixabay_4794761.png": "deb3394026df1586e6a49c96934fa651957e117ed4a96031e98a256c98b145a8"
+    }
+  },
+  "droid": {
+    "paths": [
+      "pixabay_153990.png"
+    ],
+    "q": "What could help us in our day by day basis?",
+    "a": "A droid could help us.",
+    "sha256s": {
+      "pixabay_153990.png": "66436f9aff916152043993e34a26d074d3765acba9addc071e7b7ee9204632e9"
+    }
+  },
+  "boat": {
+    "paths": [
+      "pixabay_1297487.png",
+      "pixabay_1295116.png",
+      "CS23-1380px.png.webp"
+    ],
+    "q": "What we could use to cross the river?",
+    "a": "A boat could be a great idea to cross the river.",
+    "sha256s": {
+      "pixabay_1297487.png": "59a4e4127852aa0810c4262048776bbdf9cb6b9472e45ddda3deb57d43d0498a",
+      "pixabay_1295116.png": "600af55b49feedb761276cd9d4b9822fd0d2f58dbadbbf882acc669df74570cc",
+      "CS23-1380px.png.webp": "5fb462642e538d07e7e89c015ed847c820cb90e4be0afe2f1dcbbd1215c4e0c5"
+    }
+  },
+  "robotic dog": {
+    "paths": [
+      "pixabay_29431.png"
+    ],
+    "q": "What we could use as a dog?",
+    "a": "A robotic dog could help us to use it as a dog.",
+    "sha256s": {
+      "pixabay_29431.png": "c2ec4c9677e52b776b1807b549ff6be0346ea3d1f20d842422eab074eb46dd31"
+    }
+  },
+  "space shuttle": {
+    "paths": [
+      "pixabay_2029393.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "pixabay_2029393.png": "7ba6e990fb42c1300b7b89f71eb60e58783941fb2a32fa705c1077674750d067"
+    }
+  },
+  "flash light": {
+    "paths": [
+      "pixabay_159858.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "pixabay_159858.png": "2530a96c3261632f3900ad7411cc16770e55a4210e36438bcdf16950765b8b8f"
+    }
+  },
+  "bulb light": {
+    "paths": [
+      "pixabay_310821.png"
+    ],
+    "q": "What we could use it to iluminate the room?",
+    "a": "A bulb light could help us to bring light to the dark",
+    "sha256s": {
+      "pixabay_310821.png": "aa3a07188526f2397a8e581b4524b3d411662ac7febf1e9f524b45079323705c"
+    }
+  },
+  "notebook": {
+    "paths": [
+      "CuadernostudioA5Rayado_pinksand_CU091301_01_1200x1200.webp",
+      "pixabay_149494.png"
+    ],
+    "q": "What we could use to write?",
+    "a": "A notebook will help us",
+    "sha256s": {
+      "CuadernostudioA5Rayado_pinksand_CU091301_01_1200x1200.webp": "261d8ab3bd6c8a34595a6ea34c712a854c53a01a1bb1f29f6f8978aa6b313109",
+      "pixabay_149494.png": "9bc6277258ab0f6541c1fb18cc52292f2e875a3e91da45e80ef22d0a044b1e3d"
+    }
+  },
+  "hammer": {
+    "paths": [
+      "51-072_2.png",
+      "hammer.png",
+      "dloh2tb-f01a45a4-4e8d-4c60-a6fc-ebe8d4303377.png",
+      "dkrh8jm-4a12e152-6d20-4665-8d9a-f653de193b06.png"
+    ],
+    "q": "The Toon Plane cannot fly because its propeller only has two blades instead of four. What we could use to fix the propeller?",
+    "a": "A hammer could help us to fix the propeller so the Toon Plane can fly.",
+    "sha256s": {
+      "51-072_2.png": "be39a1f27beff5361ad848450f871947512ed8ef097a4dfb6612c2e747cf04c6",
+      "hammer.png": "f063283bd19a2e346d1a074200cd6c687a352471c77a89eddd78182d5ae1c128",
+      "dloh2tb-f01a45a4-4e8d-4c60-a6fc-ebe8d4303377.png": "6e16ac85fd7bf043582e1b9e5e8895f5e5982dac24adccb4f7c209caf6971d8d",
+      "dkrh8jm-4a12e152-6d20-4665-8d9a-f653de193b06.png": "99013768e577604f0e6fb5d17f3079019bd12d0513ecedfb9016bc09a193bdb5"
+    }
+  },
+  "sticky glue": {
+    "paths": [
+      "CLEAR-GLUE-FRONT-5-Oz-scaled.png"
+    ],
+    "q": "sh",
+    "a": "sh",
+    "sha256s": {
+      "CLEAR-GLUE-FRONT-5-Oz-scaled.png": "e57db786685c094870c61b64f5b40f0a995f0b93b89df2f86570fe9c821b5055"
+    }
+  },
+  "school bus": {
+    "paths": [
+      "schoolbus.webp"
+    ],
+    "q": "sch",
+    "a": "sch",
+    "sha256s": {
+      "schoolbus.webp": "3fe9aa7db1f0a9f351b936099493c6edb26763e3aa5ddd8bbb3a97f50a79a7ab"
+    }
+  },
+  "spyglass": {
+    "paths": [
+      "pixabay_10417309.png",
+      "spyglass.png"
+    ],
+    "q": "The gang needs to spot the bongos. What they could use it?",
+    "a": "They use the spyglass to see farther and locate the bongos.",
+    "sha256s": {
+      "pixabay_10417309.png": "ba4c154c7d7aa97bbd716a4883c1228f671c83d7fb2f9d05fab0e076b1fefd77",
+      "spyglass.png": "f0a8bcf64f709abd6007c9d5cdd905333addc4bd888865be0f4c50a4b5cde834"
+    }
+  },
+  "compass": {
+    "paths": [
+      "pixabay_7933587.png",
+      "pixabay_154923.png",
+      "compass.red.png",
+      "compass.yellow.png",
+      "compass_by_siggisen_dk8udna-414w-2x.png",
+      "dly72zf-24f63946-35c3-4e37-a84c-c6ebfe2b860b.png"
+    ],
+    "q": "We need to found where is the south. What we could use it to found where the south is?",
+    "a": "The compass could help us to found where the south it is.",
+    "sha256s": {
+      "pixabay_7933587.png": "0ccbfac9949470be5062449a2244fe34a56df64f9a2c686c70606463ad9b824d",
+      "pixabay_154923.png": "609efeeee54cb5b17f3c76e2f224864fa5b22a2b54e68aa5578282d1b0ddc236",
+      "compass.red.png": "66728e88a179ba0d4733f217f3c7f4baf7cb2124b5604063b8bd19f96ab6f0f6",
+      "compass.yellow.png": "294bfbf07bfc2dfda7a00c10d18f1c1239b35603f5b9c139ed37926ee9f78908",
+      "compass_by_siggisen_dk8udna-414w-2x.png": "597122f448e85a2a26ad535ea96f0b3b961995b1fb3ab9cefd888d959f2d5a57",
+      "dly72zf-24f63946-35c3-4e37-a84c-c6ebfe2b860b.png": "1c5cc1376cbc33dab0e9da29f492d5dec2cb9a2950ead73222a8e26c7ad3d56e"
+    }
+  },
+  "hook": {
+    "paths": [
+      "pixabay_307153.png"
+    ],
+    "q": "What we could use to take something?",
+    "a": "A hook could be used.",
+    "sha256s": {
+      "pixabay_307153.png": "6725434930100ddcd44518333c3221a3c0808edfe8a80a4971f443c6bc69a040"
+    }
+  },
+  "machete": {
+    "paths": [
+      "pixabay_2024291.png"
+    ],
+    "q": "What we could use to clear the path?",
+    "a": "A machete could be used to clear the path.",
+    "sha256s": {
+      "pixabay_2024291.png": "07052bb8ac8a4e779b4be631521dd8e5488033d16e983abc251f9cda5407cf34"
+    }
+  },
+  "lantern": {
+    "paths": [
+      "pixabay_7606785.png",
+      "pixabay_23439.png",
+      "lantern.png"
+    ],
+    "q": "They need light to see their way toward the Trick-or-Treat Tower. what we could use to light the path?",
+    "a": "The latern could help us to light their path.",
+    "sha256s": {
+      "pixabay_7606785.png": "f7532f4e6492738ab3b1aa9398bbdbb854a9e0d46bbf2834c51aa8b21b4b9cbb",
+      "pixabay_23439.png": "4848f7e03ca803db669466dece9edb67000c20d6428e3ff9609223c2461b1e79",
+      "lantern.png": "8f4a2148588e56cbd8e8fa7bb0b4fe8ec337e9b2d43e4fd80cb9d42db990fb2b"
+    }
+  },
+  "shovel": {
+    "paths": [
+      "pixabay_7846855.png",
+      "shovel.png"
+    ],
+    "q": "Bella needs a bone, but they have to find one in the ground. What could be used to dig?",
+    "a": "A shovel could be useful to dig up the bones and find a small bone for Bella.",
+    "sha256s": {
+      "pixabay_7846855.png": "6c67cba8cdb35376e15493136652d2a49c0a4301aabd4416dff4566ca6fd37e7",
+      "shovel.png": "7044b59cabce5b4e56fa8097030faca9e4060a61737b55ede038030bc6388e02"
+    }
+  },
+  "chisel": {
+    "paths": [
+      "chisel.webp"
+    ],
+    "q": "What we could use it for cut, carve, shape, or remove material from wood, stone, or metal?",
+    "a": "A chisel could help us to remove the symbol.",
+    "sha256s": {
+      "chisel.webp": "8d3b7c0c527764ada88c12f0c947825c6b16426df8242061fceec850b66c0fbf"
+    }
+  },
+  "helmet diving": {
+    "paths": [
+      "helmet.webp"
+    ],
+    "q": "What can we use to go to the depths of the sea?",
+    "a": "The helmet can help us walk comfortably in the depths of the sea.",
+    "sha256s": {
+      "helmet.webp": "8b709f71a07e0a7568ac0fca89933637ae2d8875038d0d496990ad697dd7a8bd"
+    }
+  },
+  "wrench": {
+    "paths": [
+      "wrench.webp"
+    ],
+    "q": "How we could grip, turn, fasten, or loosen nuts, bolts, and pipes by applying torque?",
+    "a": "The wrench will be the perfect tool to loosen applying torque.",
+    "sha256s": {
+      "wrench.webp": "9352e16055ca3412f7a97d898a539cb07eedc7f3b819a8017a6c4fd978d7fe5e"
+    }
+  },
+  "axe": {
+    "paths": [
+      "axe.jpeg",
+      "pixabay_158277.png"
+    ],
+    "q": "What we could use for chopping wood?",
+    "a": "An Axe could help us to chopping wood and open the path.",
+    "sha256s": {
+      "axe.jpeg": "befc2a7a82a8ece06ec6da1fab56db921bc45fe61af0f20e1ed015a6fa41d027",
+      "pixabay_158277.png": "86cce1a6d9524a8414ed7bd062416645e6a3ca1a289e792d7eb8870269fe6f03"
+    }
+  },
+  "rope ladder": {
+    "paths": [
+      "escalera-cuerdas2.jpeg",
+      "tall-wooden-ladder-with-rope-rungs-on-transparent-background-png.webp",
+      "dlmazb2-48ecea4e-b6b2-48ae-85ae-798e6c27819c.png"
+    ],
+    "q": "What we could use to go up?",
+    "a": "A rope ladder could be useful to go up.",
+    "sha256s": {
+      "escalera-cuerdas2.jpeg": "f8a7ac02dd62d31ff0731cf8a7bc0668640e5781a15b018e8cd51a344cb19f40",
+      "tall-wooden-ladder-with-rope-rungs-on-transparent-background-png.webp": "fea41f7dd46d85578ee038ecd07b4ecde70b2dc3bcc048be4810a418bd5469b4",
+      "dlmazb2-48ecea4e-b6b2-48ae-85ae-798e6c27819c.png": "6f32dd2564cda6b4414754d079b1ef7e0991e1df8f5ec0ddbaa30e66787a2b99"
+    }
+  },
+  "keys": {
+    "paths": [
+      "llaves.webp",
+      "key.shapes.png"
+    ],
+    "q": "What we could use to open the door?",
+    "a": "The keys could help us to open it.",
+    "sha256s": {
+      "llaves.webp": "bf310e4234f8096e0df20797b200a62c0fb535d1fda8741649c6d5e8459f2394",
+      "key.shapes.png": "b8fe760da26bc942af88aafe5f1292afffcd646500e8944d9bc8ffd6bc73f87f"
+    }
+  },
+  "lever": {
+    "paths": [
+      "palanca.webp"
+    ],
+    "q": "What can we use to apply force and release the mechanism?",
+    "a": "The lever could help us to release the mechanism.",
+    "sha256s": {
+      "palanca.webp": "37804367f6832dbe3ee68ba96c69d21893849b9fffacf5fe0c392414cbfefca9"
+    }
+  },
+  "map": {
+    "paths": [
+      "mapa.png",
+      "map.png",
+      "donald_of_the_desert_mouseketools_by_daltongknight2_dm2g67v-375w-2x.png"
+    ],
+    "q": "We need to found where the star lake it is. What we could use to found where we need to go?",
+    "a": "A map its a good idea to found where we need to go.",
+    "sha256s": {
+      "mapa.png": "ac1a8e60e49b6ec89f163ac3b23235f53033a6191eef23efb2ff2819d5b321fb",
+      "map.png": "eb7378dcfad3b0b6a02f68acc0baa6d0611846c052258b156fa436b114493db6",
+      "donald_of_the_desert_mouseketools_by_daltongknight2_dm2g67v-375w-2x.png": "afe3b4459381baed612116175b4d9cbd5fe8f63da0899eb9130f41dbde1e60e0"
+    }
+  },
+  "money": {
+    "paths": [
+      "pixabay_155597.png"
+    ],
+    "q": "What we could use it to pay?",
+    "a": "Money will help us to pay.",
+    "sha256s": {
+      "pixabay_155597.png": "4968521d6e7f3e72bf20ce85be109981fcaebc95e3edf0f9f8f42237eaecc239"
+    }
+  },
+  "movie ticket": {
+    "paths": [
+      "pixabay_153937.png"
+    ],
+    "q": "What we could use it to enter the cinema?",
+    "a": "The movie ticket allow us to enter and see the movie.",
+    "sha256s": {
+      "pixabay_153937.png": "75c9446f727a3a77635a443da6877471d68540a2e3476372bf24268f0d63f44b"
+    }
+  },
+  "popcorn": {
+    "paths": [
+      "pixabay_161953.png"
+    ],
+    "q": "What we could eat when we see the movie?",
+    "a": "Popcorn is really good for watch movies.",
+    "sha256s": {
+      "pixabay_161953.png": "9004f02429d654077e2b376f607d251e982adff46ca6a921f64ab925ec189bbb"
+    }
+  },
   "binoculars": {
     "paths": [
       "colorful-cartoon-binoculars-for-adventure-free-png.webp",
       "binoculars.png",
       "dltsdrn-9e602621-b564-4467-8c18-2bef2d6322f7.png",
-      "pixabay_1586004.png",
       "dl9w8gl-afbcddb0-ac22-40a1-8372-5465794fbadf.png",
       "dl388r9-181d8b6e-1a6a-4d9e-b4d3-bd0e0f226a79.png",
       "dmxn1rh-67787d07-538c-4d39-b634-e88357a7e2d1.png"
@@ -15,10 +414,21 @@
       "colorful-cartoon-binoculars-for-adventure-free-png.webp": "032a95d24af3799c2660dfa2627b38a3c0fd8874806ec181acaa9b9630e62f96",
       "binoculars.png": "e9103ee7a4e7dd90acce6914a08cd044c25105555d25d45a9e22b92fe82e72b1",
       "dltsdrn-9e602621-b564-4467-8c18-2bef2d6322f7.png": "dce98b9c5ed46f7df115391e64a500c61e153ba9ca210cd4e9eec3a1f02383a1",
-      "pixabay_1586004.png": "ad7069739b1264c797323eb3627d109cc93c6fca84e207c0afc2d11a00a5e18d",
       "dl9w8gl-afbcddb0-ac22-40a1-8372-5465794fbadf.png": "e7fc7201c6e281c8c944f43afcd867951470616028e427969bc28b7b0895367e",
       "dl388r9-181d8b6e-1a6a-4d9e-b4d3-bd0e0f226a79.png": "b334aa2b06fb9b43d3d3d12a2d46bcafbc6a319ad2f5d4ffea14b0e8364f84f6",
       "dmxn1rh-67787d07-538c-4d39-b634-e88357a7e2d1.png": "fc7e08881c3c85456a620f48c9a4bcf022dbf4336df7ed423a95532ddfa0e051"
+    }
+  },
+  "toolbox": {
+    "paths": [
+      "pixabay_304894.png",
+      "dlufsb6-bc1f243d-a68d-4978-a281-f907422d740c.png"
+    ],
+    "q": "The refrigerator is not working. We need to repair it. What we could help us?",
+    "a": "A toolbox could have some tools that could be used to repair the refrigerator.",
+    "sha256s": {
+      "pixabay_304894.png": "333b663cad0cf58e1d769ca4dd8e389ad456d34fc759bdf8e027caa0ea4173dc",
+      "dlufsb6-bc1f243d-a68d-4978-a281-f907422d740c.png": "10c1ec656233a27528e9a80f478c1fa68a134e3e506554f1e1e128969acd637e"
     }
   },
   "apple": {
@@ -53,48 +463,6 @@
       "cartoon-blue-baby-feeding-bottle-illustration-of-newborn-baby-plastic-milk-bottle-with-silicone-nipple-illustration-for-print-web-mobile-and-infographics-baby-shower-gender-reveal-element-png.webp": "3661cb5abe87e1a324e67b1b51303adfc8788e4464ace1fbacfcc545556c338d"
     }
   },
-  "boat": {
-    "paths": [
-      "CS23-1380px.png.webp",
-      "pixabay_1297487.png",
-      "pixabay_1295116.png"
-    ],
-    "q": "What we could use to cross the river?",
-    "a": "A boat could be a great idea to cross the river.",
-    "sha256s": {
-      "CS23-1380px.png.webp": "5fb462642e538d07e7e89c015ed847c820cb90e4be0afe2f1dcbbd1215c4e0c5",
-      "pixabay_1297487.png": "59a4e4127852aa0810c4262048776bbdf9cb6b9472e45ddda3deb57d43d0498a",
-      "pixabay_1295116.png": "600af55b49feedb761276cd9d4b9822fd0d2f58dbadbbf882acc669df74570cc"
-    }
-  },
-  "car": {
-    "paths": [
-      "car-158795_1280.png",
-      "pixabay_33633.png",
-      "sport-car-isolated-on-transparent-background-3d-rendering-illustration-free-png.webp"
-    ],
-    "q": "What we could use to take the road?",
-    "a": "A nice and sport car could help us to enjoy the road.",
-    "sha256s": {
-      "car-158795_1280.png": "2c018c3c5da468e13f8c942978dd993afcf063fb1a71b50ee158d449a7194234",
-      "pixabay_33633.png": "55e4f914bf10a10cdac5ebf4646c84d83414921eed569815a0058d4b57478619",
-      "sport-car-isolated-on-transparent-background-3d-rendering-illustration-free-png.webp": "9274c9c543b900d738e1d84f18fe340e5bd53c5de927ba3bd71f6d8e9df17ed0"
-    }
-  },
-  "plane": {
-    "paths": [
-      "white-airplane-flying-against-transparent-background-airplane-in-flight-isolated-plane-png.webp",
-      "fighter-jet-6115624_1280.png",
-      "pixabay_8131428.png"
-    ],
-    "q": "What we could use to flight?",
-    "a": "A plane could help us to flight and go away quickly.",
-    "sha256s": {
-      "white-airplane-flying-against-transparent-background-airplane-in-flight-isolated-plane-png.webp": "fe05b5b188248e4d4855d791210de923e7fa4e1a39ab8e8dbb29ec825ab481f2",
-      "fighter-jet-6115624_1280.png": "abc0e404e8f2035098b1dd7e81cb01b97fc25a5ff02410d8643528cca7d8aa2c",
-      "pixabay_8131428.png": "44c24bd704cbcee078845fb6a802f9d58835f9aa69e5759788bcbcb2f326fea2"
-    }
-  },
   "train": {
     "paths": [
       "Train-Definition.webp",
@@ -110,15 +478,15 @@
   "trampoline": {
     "paths": [
       "trampoline.jpeg",
-      "trampoline.png",
-      "daisy_bo_peep_mouseketools_by_daltongknight2_dltsdrn-fullview.png"
+      "daisy_bo_peep_mouseketools_by_daltongknight2_dltsdrn-fullview.png",
+      "trampoline.png"
     ],
     "q": "what we could use to reach sheep that were up high, on top of boxes or shelves?",
     "a": "A trampoline for sure could help us to reach high.",
     "sha256s": {
       "trampoline.jpeg": "72f00b653607437be7f5cfe41b5a68a7f256ead289cbe05490b175c3b8ef5911",
-      "trampoline.png": "5f037f68b0d24663dd89acbca1550d92ad543e5f038e50d652dea6dc5ec38c16",
-      "daisy_bo_peep_mouseketools_by_daltongknight2_dltsdrn-fullview.png": "c0ae847b43dd672f7b728e46e21705dd827bb82116a46a6a83dc4f07446a3519"
+      "daisy_bo_peep_mouseketools_by_daltongknight2_dltsdrn-fullview.png": "c0ae847b43dd672f7b728e46e21705dd827bb82116a46a6a83dc4f07446a3519",
+      "trampoline.png": "5f037f68b0d24663dd89acbca1550d92ad543e5f038e50d652dea6dc5ec38c16"
     }
   },
   "net": {
@@ -220,17 +588,17 @@
   "slide": {
     "paths": [
       "slide.webp",
+      "dlu1jxb-a855e588-32cb-42eb-9baa-2a718844cfa1.png",
       "spiral.slide.webp",
-      "slide.png",
-      "dlu1jxb-a855e588-32cb-42eb-9baa-2a718844cfa1.png"
+      "slide.png"
     ],
     "q": "What we could use it to go down?",
     "a": "A slide could help us to go down",
     "sha256s": {
       "slide.webp": "12c5bfcfc714479873a827ccbd87b2fc2295c6ad131162fce964ecf68ca2e22f",
+      "dlu1jxb-a855e588-32cb-42eb-9baa-2a718844cfa1.png": "a30b24b8b14ee6c5b5a7e48c52ab151d3a1528289ab13be356c2fe1b5d831480",
       "spiral.slide.webp": "6b1641e8413fa410e6749d95544f0a73e93117a1c62cdc8835d6dbb4f9d7b975",
-      "slide.png": "265ec5ff4e04de511af6483c1de79b3c7593448ebf18dd2fb60a035c6e59599f",
-      "dlu1jxb-a855e588-32cb-42eb-9baa-2a718844cfa1.png": "a30b24b8b14ee6c5b5a7e48c52ab151d3a1528289ab13be356c2fe1b5d831480"
+      "slide.png": "265ec5ff4e04de511af6483c1de79b3c7593448ebf18dd2fb60a035c6e59599f"
     }
   },
   "pogo stick": {
@@ -259,18 +627,18 @@
     "paths": [
       "elefante.webp",
       "elephant.webp",
-      "elephant.bikini.png",
       "pixabay_35527.png",
-      "dlvyosu-2a090b9c-99c3-47b6-a067-4c908008c3d2.png"
+      "dlvyosu-2a090b9c-99c3-47b6-a067-4c908008c3d2.png",
+      "elephant.bikini.png"
     ],
     "q": "The birthday balloons need to be inflated. What we could use to inflatate the baloons?",
     "a": "Boobles the baby elephant could help us using her trunk to blow up the baloons for Minnie's birthday party.",
     "sha256s": {
       "elefante.webp": "1930c1696db4136390b946a5bae4022c42cad154c366057e088362781a4b60f1",
       "elephant.webp": "c13a037969ddcdf88711c420bb7d1261f98a15fefd578a76936c7cfb347e26cc",
-      "elephant.bikini.png": "4930a1c21a6394f90af8287c1f528f0f644bc251ac644b7522f0bcaf4d7170e6",
       "pixabay_35527.png": "e6074808d079c2207f870fa4c678cd71afecc484b2bc6284068251b3ce7b829a",
-      "dlvyosu-2a090b9c-99c3-47b6-a067-4c908008c3d2.png": "267b9417d2503555aa6ecfed501d130e11c2ea416938028ebd24f1e2edd81923"
+      "dlvyosu-2a090b9c-99c3-47b6-a067-4c908008c3d2.png": "267b9417d2503555aa6ecfed501d130e11c2ea416938028ebd24f1e2edd81923",
+      "elephant.bikini.png": "4930a1c21a6394f90af8287c1f528f0f644bc251ac644b7522f0bcaf4d7170e6"
     }
   },
   "race plane": {
@@ -283,48 +651,30 @@
       "AJ-Aircraft_Slick-540-61_AJS_061-00RBK.png": "98143593167dc114577fe707f1e12e199315983667eb0ea4c5721d17e1a6c237"
     }
   },
-  "rope ladder": {
-    "paths": [
-      "rope ladder.jpeg",
-      "tall-wooden-ladder-with-rope-rungs-on-transparent-background-png.webp",
-      "rope.ladder.png",
-      "escalera-cuerdas2.jpeg",
-      "dlmazb2-48ecea4e-b6b2-48ae-85ae-798e6c27819c.png"
-    ],
-    "q": "What we could use to go up?",
-    "a": "A rope ladder could be useful to go up.",
-    "sha256s": {
-      "rope ladder.jpeg": "d4e591f008f825a7793f209b2f2adfd7ef674293d6390ee9bb2a88ecb225fb25",
-      "tall-wooden-ladder-with-rope-rungs-on-transparent-background-png.webp": "fea41f7dd46d85578ee038ecd07b4ecde70b2dc3bcc048be4810a418bd5469b4",
-      "rope.ladder.png": "d9819186bb1086166837d55d518dbb89cdf6c6541d46a9a4c8b3a8850d8c3a30",
-      "escalera-cuerdas2.jpeg": "f8a7ac02dd62d31ff0731cf8a7bc0668640e5781a15b018e8cd51a344cb19f40",
-      "dlmazb2-48ecea4e-b6b2-48ae-85ae-798e6c27819c.png": "6f32dd2564cda6b4414754d079b1ef7e0991e1df8f5ec0ddbaa30e66787a2b99"
-    }
-  },
   "handy fishing rod": {
     "paths": [
       "handy_fishing_rod_14_by_cddavies08_dm18c6p-fullview.png",
-      "handy.fishing.png",
       "dl563yd-6630a2b3-ac14-4b6f-9334-27fb95e523fd.png",
       "handy_fishing_rod_9_by_cddavies08_dljvunj-fullview.png",
       "dkrh8ou-e2c6a626-4c11-45cb-8e76-e4c99be56a38.png",
       "oh_toodles_mouseketools_by_daltongknight2_dm6l1va-fullview.png",
       "dm6ntvx-095819c0-bb19-43a3-a240-ef75bc5e6fcf.png",
       "dl9w8gl-9cc3f834-81c0-42a7-b0c9-de73c295fe84.png",
-      "djrq1k3-88b3afb0-9c0d-4886-aae7-cf9dfaf68103.png"
+      "djrq1k3-88b3afb0-9c0d-4886-aae7-cf9dfaf68103.png",
+      "handy.fishing.png"
     ],
     "q": "What we could use to catch a red fish?",
     "a": "The handy fishing rod could be useful to catch the red fish.",
     "sha256s": {
       "handy_fishing_rod_14_by_cddavies08_dm18c6p-fullview.png": "db032de3019e8286810fb4280f1d27a196595bb92943e5cf03d820b65e09d639",
-      "handy.fishing.png": "eee93ade3e0450523aa83f9204b3121e6e7a1c43ab32035e545367ba0f01211f",
       "dl563yd-6630a2b3-ac14-4b6f-9334-27fb95e523fd.png": "dff89d587a9dbff6577b1b043f90d11b0081c91c7ed235890d03fb39fd130eda",
       "handy_fishing_rod_9_by_cddavies08_dljvunj-fullview.png": "9183832294547bcc6362c4b94b2bbf7780ac3f387125687e8a5169747ae6818e",
       "dkrh8ou-e2c6a626-4c11-45cb-8e76-e4c99be56a38.png": "ddb422325c9fc7d44332cb8daca378125ca9f4349e81588fafea74c42e69e48b",
       "oh_toodles_mouseketools_by_daltongknight2_dm6l1va-fullview.png": "321fd10de9a81b8798425b537d19573000eb9f0febd4424c58e706a5cb2175c1",
       "dm6ntvx-095819c0-bb19-43a3-a240-ef75bc5e6fcf.png": "477bc7a5b7e1e5839c0873df8f5507120ac40f7e6fbd215234419a7d9f6dcec7",
       "dl9w8gl-9cc3f834-81c0-42a7-b0c9-de73c295fe84.png": "75a800eb48bcc927e6e40c0cb1f2c16ecd994aeb93b7d8c4afb468b3309474bf",
-      "djrq1k3-88b3afb0-9c0d-4886-aae7-cf9dfaf68103.png": "30dcf078332a556aef5be39a5d7a5848096d46fe7bbb893f5be08fa505f2fa99"
+      "djrq1k3-88b3afb0-9c0d-4886-aae7-cf9dfaf68103.png": "30dcf078332a556aef5be39a5d7a5848096d46fe7bbb893f5be08fa505f2fa99",
+      "handy.fishing.png": "eee93ade3e0450523aa83f9204b3121e6e7a1c43ab32035e545367ba0f01211f"
     }
   },
   "handy crane": {
@@ -465,14 +815,12 @@
   },
   "a catcher’s mitt": {
     "paths": [
-      "A.Catchers.Mitt.png",
-      "mickey_s_round_up_mouseketools_by_daltongknight2_dlvyosu-375w-2x.png"
+      "A.Catchers.Mitt.png"
     ],
     "q": "The fish gets loose and starts bouncing all over the boat. What we could use to catch it?",
     "a": "A Catcher's Mitt could help us to catch the bouncing fish and keep it from escaping.",
     "sha256s": {
-      "A.Catchers.Mitt.png": "4231cbb976307aa18716e5dd789a28967a74661a0c8ebd6e2fe291eb89fae84c",
-      "mickey_s_round_up_mouseketools_by_daltongknight2_dlvyosu-375w-2x.png": "25b8bb1b0d870d21441543b55098d4579565eab31ae87486642b1e2178734c5b"
+      "A.Catchers.Mitt.png": "4231cbb976307aa18716e5dd789a28967a74661a0c8ebd6e2fe291eb89fae84c"
     }
   },
   "candle": {
@@ -611,38 +959,6 @@
       "baloon.png": "4d20375656c46710330731dbec9e9b3a382924a61ed1ffedb4caf2e97be9c519"
     }
   },
-  "compass": {
-    "paths": [
-      "compass.red.png",
-      "compass.yellow.png",
-      "compass_by_siggisen_dk8udna-414w-2x.png",
-      "dly72zf-24f63946-35c3-4e37-a84c-c6ebfe2b860b.png",
-      "pixabay_7933587.png"
-    ],
-    "q": "We need to found where is the south. What we could use it to found where the south is?",
-    "a": "The compass could help us to found where the south it is.",
-    "sha256s": {
-      "compass.red.png": "66728e88a179ba0d4733f217f3c7f4baf7cb2124b5604063b8bd19f96ab6f0f6",
-      "compass.yellow.png": "294bfbf07bfc2dfda7a00c10d18f1c1239b35603f5b9c139ed37926ee9f78908",
-      "compass_by_siggisen_dk8udna-414w-2x.png": "597122f448e85a2a26ad535ea96f0b3b961995b1fb3ab9cefd888d959f2d5a57",
-      "dly72zf-24f63946-35c3-4e37-a84c-c6ebfe2b860b.png": "1c5cc1376cbc33dab0e9da29f492d5dec2cb9a2950ead73222a8e26c7ad3d56e",
-      "pixabay_7933587.png": "0ccbfac9949470be5062449a2244fe34a56df64f9a2c686c70606463ad9b824d"
-    }
-  },
-  "map": {
-    "paths": [
-      "map.png",
-      "donald_of_the_desert_mouseketools_by_daltongknight2_dm2g67v-375w-2x.png",
-      "mapa.png"
-    ],
-    "q": "We need to found where the star lake it is. What we could use to found where we need to go?",
-    "a": "A map its a good idea to found where we need to go.",
-    "sha256s": {
-      "map.png": "eb7378dcfad3b0b6a02f68acc0baa6d0611846c052258b156fa436b114493db6",
-      "donald_of_the_desert_mouseketools_by_daltongknight2_dm2g67v-375w-2x.png": "afe3b4459381baed612116175b4d9cbd5fe8f63da0899eb9130f41dbde1e60e0",
-      "mapa.png": "ac1a8e60e49b6ec89f163ac3b23235f53033a6191eef23efb2ff2819d5b321fb"
-    }
-  },
   "light stick": {
     "paths": [
       "light.stick2.png"
@@ -713,32 +1029,6 @@
     "sha256s": {
       "SmallBowl.png": "fbdc958c94d0e6897c816ee946f3b8d0ac5d3600fe757d4f340ab3d46ac67941",
       "pixabay_1300553.png": "fe6e1bccfe2a65f1e50f5c7800787b4e59d588d773db9fbcddafeb2b4bde3e9f"
-    }
-  },
-  "hammer": {
-    "paths": [
-      "hammer.png",
-      "dloh2tb-f01a45a4-4e8d-4c60-a6fc-ebe8d4303377.png",
-      "dkrh8jm-4a12e152-6d20-4665-8d9a-f653de193b06.png",
-      "51-072_2.png"
-    ],
-    "q": "The Toon Plane cannot fly because its propeller only has two blades instead of four. What we could use to fix the propeller?",
-    "a": "A hammer could help us to fix the propeller so the Toon Plane can fly.",
-    "sha256s": {
-      "hammer.png": "f063283bd19a2e346d1a074200cd6c687a352471c77a89eddd78182d5ae1c128",
-      "dloh2tb-f01a45a4-4e8d-4c60-a6fc-ebe8d4303377.png": "6e16ac85fd7bf043582e1b9e5e8895f5e5982dac24adccb4f7c209caf6971d8d",
-      "dkrh8jm-4a12e152-6d20-4665-8d9a-f653de193b06.png": "99013768e577604f0e6fb5d17f3079019bd12d0513ecedfb9016bc09a193bdb5",
-      "51-072_2.png": "be39a1f27beff5361ad848450f871947512ed8ef097a4dfb6612c2e747cf04c6"
-    }
-  },
-  "zippy scooter": {
-    "paths": [
-      "Zippy Scooter.png"
-    ],
-    "q": "The Super Duper Bouncy Ball keeps bouncing away too quickly to catch. What we could use to go fast?",
-    "a": "The zippy scooter could help us to race after the ball and catch up with it.",
-    "sha256s": {
-      "Zippy Scooter.png": "600fcd2a3d5f4ecb54a5cec3138cd706156e3551be5c9947f8c584db2dd76702"
     }
   },
   "super springs": {
@@ -831,18 +1121,6 @@
     "a": "The life saver could help us to pull Butch out of the water and save him.",
     "sha256s": {
       "life.saver.png": "43a2b0fb385f173dde7efa03d10ec2427da617644939404143682cd15f93a042"
-    }
-  },
-  "lantern": {
-    "paths": [
-      "lantern.png",
-      "pixabay_7606785.png"
-    ],
-    "q": "They need light to see their way toward the Trick-or-Treat Tower. what we could use to light the path?",
-    "a": "The latern could help us to light their path.",
-    "sha256s": {
-      "lantern.png": "8f4a2148588e56cbd8e8fa7bb0b4fe8ec337e9b2d43e4fd80cb9d42db990fb2b",
-      "pixabay_7606785.png": "f7532f4e6492738ab3b1aa9398bbdbb854a9e0d46bbf2834c51aa8b21b4b9cbb"
     }
   },
   "garbage can lid": {
@@ -939,18 +1217,6 @@
       "bouncy.ball.png": "0479e879b4ad63f5120bea71f8d5cafc55f73d59cd76b7b3aebd2eb383b928b1"
     }
   },
-  "shovel": {
-    "paths": [
-      "shovel.png",
-      "pixabay_7846855.png"
-    ],
-    "q": "Bella needs a bone, but they have to find one in the ground. What could be used to dig?",
-    "a": "A shovel could be useful to dig up the bones and find a small bone for Bella.",
-    "sha256s": {
-      "shovel.png": "7044b59cabce5b4e56fa8097030faca9e4060a61737b55ede038030bc6388e02",
-      "pixabay_7846855.png": "6c67cba8cdb35376e15493136652d2a49c0a4301aabd4416dff4566ca6fd37e7"
-    }
-  },
   "glue stick": {
     "paths": [
       "glue.stick.png",
@@ -966,15 +1232,15 @@
   "roller skates": {
     "paths": [
       "roller.skates.png",
-      "minnie.roller.skates.png",
-      "dm2guo0-1c3009d3-73c2-44b1-9646-93dca6c49011.png"
+      "dm2guo0-1c3009d3-73c2-44b1-9646-93dca6c49011.png",
+      "minnie.roller.skates.png"
     ],
     "q": "The path to Goofy's tent goes over several hills, and they need to get there quickly while the soup is still hot. What we could use it to go fast?",
     "a": "The roller skates could be helpful to skate over the hills and reach Goofy's tent faster.",
     "sha256s": {
       "roller.skates.png": "7a5326ace0fd3eaf9a1903c36516f18fbe084324213b2715381c6c7725baadac",
-      "minnie.roller.skates.png": "0b9ee1b71cb3cd45dddadc3bcf962407f48604094e8e607bb9abf1d53b622d85",
-      "dm2guo0-1c3009d3-73c2-44b1-9646-93dca6c49011.png": "1bce32c4afe0b8796748afdd56a89a5fb170a64224fccee39ba6462af18b3605"
+      "dm2guo0-1c3009d3-73c2-44b1-9646-93dca6c49011.png": "1bce32c4afe0b8796748afdd56a89a5fb170a64224fccee39ba6462af18b3605",
+      "minnie.roller.skates.png": "0b9ee1b71cb3cd45dddadc3bcf962407f48604094e8e607bb9abf1d53b622d85"
     }
   },
   "seesaw": {
@@ -1228,16 +1494,16 @@
   "ladder": {
     "paths": [
       "ladder.png",
-      "Laddder.png",
       "pixabay_36378.png",
+      "dlkb3cp-8573a272-0f29-401c-8d60-a02acc5a3ac3.png",
       "purple_ladder_by_cddavies08_dlravny-375w-2x.png"
     ],
     "q": "Figaro is stuck high in a tree. What Donald can use to climb up and rescue Figaro?",
     "a": "A ladder could help Donald to climb up and rescue Figaro.",
     "sha256s": {
       "ladder.png": "2250de66d47f396a0e29fac6df569b05a703f132d79ef61122ef1c44cc1931b7",
-      "Laddder.png": "db68a1bbe294f46b4f7125d222ef835cd1d06bc8a3311c314c2d79ac43f273f3",
       "pixabay_36378.png": "bbadf6025071f8d7797a3b61aa448dcbecb7dca05bed85f518c47cc1e6a015ec",
+      "dlkb3cp-8573a272-0f29-401c-8d60-a02acc5a3ac3.png": "db68a1bbe294f46b4f7125d222ef835cd1d06bc8a3311c314c2d79ac43f273f3",
       "purple_ladder_by_cddavies08_dlravny-375w-2x.png": "fcbae4675991cfdf3934f6566a778cc2e10bbe844c42328b2e31fb51f63c47b8"
     }
   },
@@ -1315,194 +1581,146 @@
       "broom.png": "2538b86482f6cb9662f1939aa043969addac9154fafd84febb2f70afb58e2a37"
     }
   },
-  "shampoo": {
+  "apples": {
     "paths": [
-      "bottle.shampoo.png"
+      "pixabay_575317.png"
     ],
-    "q": "Goofy gets stuck in the gears. What we could use it to Makes the gears slippery?",
-    "a": "A bootle of shampoo could be used to makes the gears slippery so Goofy can slide free.",
+    "q": "The baby goofy its hungry. What we could give him?",
+    "a": "A couple of apples could be great to feed baby goofy.",
     "sha256s": {
-      "bottle.shampoo.png": "de5e486d51d10aae075b21241aeb9229862ccab09b4c308b4325bc19310fd701"
+      "pixabay_575317.png": "2f657f2f844680fe2c3f3a82c45ded73ef32c52b4ba78ee49bc7871cbaac1b4e"
     }
   },
-  "four shape wrenches": {
+  "camera": {
     "paths": [
-      "four.shapers.png"
+      "camera.png"
     ],
-    "q": "The bolts on the Handy-Dandy Machine are loose. What can we Used to tighten the bolts?",
-    "a": "A pair of shape wrenches could be Used to tighten the bolts so the gears can turn.",
+    "q": "Donald wants to film their dance. What Donald could use to film?",
+    "a": "A camera recorder could be use to film himself.",
     "sha256s": {
-      "four.shapers.png": "5d1b0301eb8af9d7a1bd252aa9e5c5cfdec3c65d4b3fbd1264212d6f6d8900b7"
+      "camera.png": "cfe8c7c0565299ee5bacbfc34ac8248d32062966f55edecc1544eb3533713def"
     }
   },
-  "buterfly net": {
+  "trapeze swing": {
     "paths": [
-      "buterfly.net.png"
+      "Trapeze.Swing.png"
     ],
-    "q": "Goofy is launched into the air by a spring. What we could use it to catch Goofy safely?",
-    "a": "A buterfly net could be used to catch Goofy safely.",
+    "q": "Pete is in danger. What we could use to rescue Pete?",
+    "a": "Helps the team rescue Pete from the giant baby chicks.",
     "sha256s": {
-      "buterfly.net.png": "902d464e2ab29a855c5c3f9dbdf47b3e87128a7aee1284925261cf4f9d24fdd9"
+      "Trapeze.Swing.png": "c9a9866ad0386717bc016f3ce37e8f69c2897d0394b84bafb9bdeeb0903e052f"
     }
   },
-  "baby bottle": {
+  "chicken costume": {
     "paths": [
-      "baby.bottle.png",
-      "pixabay_147735.png"
+      "Chicken.Costume.png"
     ],
-    "q": "",
-    "a": "",
+    "q": "We need to feed the baby chicks. What we could use Pete?",
+    "a": "Pete wears the costume to lure the giant baby chicks into Mickey Corral.",
     "sha256s": {
-      "baby.bottle.png": "b00a14026c68cd1b9be48b4cd8fbd5c41a57907cb4e2e47ddf57a851120794c5",
-      "pixabay_147735.png": "0df433f2b1faa6d55b3ead0350e4851307bc70b9caf7af832af8bc3390d8f245"
+      "Chicken.Costume.png": "beb870c93a028abf496208e721c50b00b10edd41d6f47845f4ed57feb759b7fa"
     }
   },
-  "baby utensils": {
+  "rattle": {
     "paths": [
-      "baby.utensils.webp"
+      "rattle.png"
     ],
-    "q": "Baby goofy is hangry. What we could use to fed Baby goofy?",
-    "a": "We could use the baby utensils to fed baby goofy.",
+    "q": "Mickey turns into a baby and wanders off, making it difficult to locate him. What we could attract Mickey?",
+    "a": "Goofy uses the rattle to hear Mickey Jr. and find where he has gone.",
     "sha256s": {
-      "baby.utensils.webp": "4e52494d5dd6630b0233cf5cd3f7656c85dc631c31ee233942b676bb2575579d"
+      "rattle.png": "32008c1e0c2b443d081ddb103bd35047f4ad0493090ef47bedb205732761234a"
     }
   },
-  "wagon": {
+  "cradle": {
     "paths": [
-      "wagon.png",
-      "dm6resw-e7fb50c1-541c-4d1b-bf34-09bccb02be88.png"
+      "cradle.png"
     ],
-    "q": "",
-    "a": "",
+    "q": "Goofy needs somewhere to put the Moo-Muffins while caring for the babies. What Goofy could use it?",
+    "a": "The cradle provides a place to hold the Moo-Muffins.",
     "sha256s": {
-      "wagon.png": "fd2dc6b8ada509d80b1ffdeb74d18b950d102cee7f2537bdf8169596bcb84049",
-      "dm6resw-e7fb50c1-541c-4d1b-bf34-09bccb02be88.png": "e320abeca4f8b68266fa4f86a3e58d2f309cbbf7081c515af1b4506f003f7b52"
+      "cradle.png": "880b27c8b5cc3012e82d313763d840a3034570bfe020f6d2a4145d1fb838e0cc"
     }
   },
-  "beach towel": {
+  "tedy bear": {
     "paths": [
-      "beach.towel.png",
-      "pixabay_149936.png"
+      "tedy.bear.png"
     ],
-    "q": "",
-    "a": "",
+    "q": "Goofy needs to get all his baby friends to sleep. What he could use it to sleep the baby friends?",
+    "a": "Goofy uses the teddy bear to help settle the babies and put them to sleep.",
     "sha256s": {
-      "beach.towel.png": "107d5c09940adbeee1fdd8d433e78eba8529431100b234a3e550600454ce607b",
-      "pixabay_149936.png": "de63e9f406bc9a33dcc44cc22965bfaff567ebc0837a6b93b69ec562145656fc"
+      "tedy.bear.png": "9cbb347c499bbf2fd05537e34e4f7bf992e8cb275dba5158ec9dd3e570d32228"
     }
   },
-  "sponge": {
+  "doggie bed": {
     "paths": [
-      "sponge.png"
+      "doggie.bed.png"
     ],
-    "q": "Goofy accidentally spills punch all over the picnic area. What we could use to abserve the juice?",
-    "a": "A sponge could help Goofy to clean the surface. It could soaks up the spilled punch and cleans up the mess.",
+    "q": "Prince Pluto and Mickey must cross a slippery glass bridge. What they could use to cross the bridge?",
+    "a": "They use the doggie bed like a sled to slide safely across the bridge.",
     "sha256s": {
-      "sponge.png": "3fac36e4d04c7e52cc25e19f60e4678fc8fb85b026dbe6b409df0f99f8ea5e15"
+      "doggie.bed.png": "5ffea8d285744afb4a2de5bf0176ddf01d59d87e95bfae64ce055063bf2085f2"
     }
   },
-  "party noisemakers": {
+  "doggie bowl": {
     "paths": [
-      "party.blower.webp"
+      "doggie.bowl.png"
     ],
-    "q": "Goofy needs something to make a loud sound to start the race. What we could use to make noise?",
-    "a": "A Party noisemaker. They make the noise that signals the start of the obstacle course.",
+    "q": "Jester Goofy has too many apples to hold while juggling. What we could use to put the apples?",
+    "a": "They collect the apples in the bowls.",
     "sha256s": {
-      "party.blower.webp": "747b381e190c07758accbb19afed913cfc9c1ba98ea0563988c768cdbb0f6cdc"
+      "doggie.bowl.png": "53a703d3e5a6778502ae43b49aed1539c9b7d4ac65dd757700df5c8ce9be2fdc"
     }
   },
-  "spring shoes": {
+  "feather": {
     "paths": [
-      "spring.shoes.png"
+      "pixabay_833327.png",
+      "feather.png"
     ],
-    "q": "Goofy has to jump over a very tall pile of rubber duckies. What he could use?",
-    "a": "A spring shoes. They help Goofy jump high enough to clear the pile.",
+    "q": "The baby elephant gets stuck in the slide. What can we use to make the elephant laugh?",
+    "a": "They tickle the elephant's trunk with the feather, making her giggle and wiggle free.",
     "sha256s": {
-      "spring.shoes.png": "80e854e8fae351d9f1cf421f1ef88b6fbf6b88aab8d0462d8bb1517d8f19457d"
+      "pixabay_833327.png": "e0e744fe609c9d99146806cdce2b9fdc38e70a1a119910df10210d24d3e19233",
+      "feather.png": "464f83c926c250f86f6bb6a49522ecdcc900b2d2305b6a964cb99d7261caed69"
     }
   },
-  "space helmet": {
+  "zippy scooter": {
     "paths": [
-      "space.helmet.jpeg"
+      "zippy.scooter.png"
     ],
-    "q": "Goofy is distracted by the smell of Willie the Giant's Swiss cheese while crawling through the final obstacle. What we could use to block the smell?",
-    "a": "A space helmet. It blocks the smell so Goofy can crawl through without stopping to eat the cheese.",
+    "q": "Prince Pluto and Mickey need to reach Wizard Pete’s castle quickly to rescue Princess Bella. What they could use to go fast?",
+    "a": "The scooter gives them a fast ride to the castle.",
     "sha256s": {
-      "space.helmet.jpeg": "ffb083f0929a75f3e884cd035ac8c52e3375373aaa7155291c603b5c2951ba12"
+      "zippy.scooter.png": "600fcd2a3d5f4ecb54a5cec3138cd706156e3551be5c9947f8c584db2dd76702"
     }
   },
-  "xylophone": {
+  "bouncy shoes": {
     "paths": [
-      "Xylophone.webp",
-      "dm6ntvx-1edaff28-9def-4000-8b14-d76881cfa4f7.png",
-      "dm6ntvx-67b4e80d-f4ee-4da6-8dfd-926a4f601ae7.png"
+      "bouncy.shoes.png"
     ],
-    "q": "",
-    "a": "",
+    "q": "Captain Jumps-A-Lot has taken all the carrots needed for the scavenger hunt, and he hops too fast to catch. What we could be used to jump high?",
+    "a": "Daisy uses the shoes to hop quickly and catch up with the rabbit, so she can ask him to share the carrots.",
     "sha256s": {
-      "Xylophone.webp": "947f8edcb005b449b476cfcb95fe21e25bbcb0b46f7099a496ef18afcf644b3a",
-      "dm6ntvx-1edaff28-9def-4000-8b14-d76881cfa4f7.png": "20680b77da13c578ad80499041f3cb0be1f9a8b8dd9bd3a01c2dba8f1ad6f9e1",
-      "dm6ntvx-67b4e80d-f4ee-4da6-8dfd-926a4f601ae7.png": "de55b8dc3b14ef1444776ad3eed46b03ffccc8d7004df40348a35f5a88298d7e"
+      "bouncy.shoes.png": "3fd7db7a073cc41c0917afcee7398ee356a522a5d29a339e668bf76102d4c5aa"
     }
   },
-  "bycicle pump": {
+  "picnic basket": {
     "paths": [
-      "bycicle.pump.png"
+      "picnic.basket.png"
     ],
-    "q": "Goofy gets stuck inside the trombone. What we could use it to Pumps air into the trombone?",
-    "a": "A bycicle pump. We could use it to Pumps air into the trombone to push Goofy out.",
+    "q": "The friends find a giant egg at Willie the Giant’s farm, but they need a safe way to carry it. What they could use?",
+    "a": "The basket holds the giant egg safely for the trip back.",
     "sha256s": {
-      "bycicle.pump.png": "6371bd8f65db838a95bfba54a22fcc65ae83c418e9d665c7516fbd7910cf1874"
+      "picnic.basket.png": "2f6783fa1ff30bb0d2b9f27638dfcc129596f45e57cb69b207e760d568690b71"
     }
   },
-  "clothespin": {
+  "newspaper": {
     "paths": [
-      "clothespin.png"
+      "pixabay_37782.png"
     ],
-    "q": "Donald’s sheet music keeps blowing away. What we could use to holds the sheet of music?",
-    "a": "A clothespin could Holds the sheet music in place.",
+    "q": "Donald and Daisy get caught in the rain and need something to keep their heads dry. What they could use it to cover?",
+    "a": "They hold the newspaper over their heads like an umbrella.",
     "sha256s": {
-      "clothespin.png": "406ab19fea4e747dc73724a5fb5adbc1d58c002a0356030b0dffb198195d1d48"
-    }
-  },
-  "pitch pipe": {
-    "paths": [
-      "pitch.pipe.png"
-    ],
-    "q": "Mickey’s ukulele string is out of tune. What we could use to Provide the correct pitch?",
-    "a": "A pitch pipe could Provides the correct pitch so Mickey can tune the string.",
-    "sha256s": {
-      "pitch.pipe.png": "d1bf8f1fac0cd50ed82351cc0ffd84d0fb092243dbbc4e53568f4f25ddac1416"
-    }
-  },
-  "periscope": {
-    "paths": [
-      "periscope.png"
-    ],
-    "q": "Goofy's hat is difficult to see/find from the ground. What Goofy could use to see?",
-    "a": "A periscope. Helps them look into places that are difficult to see directly.",
-    "sha256s": {
-      "periscope.png": "ba069f33c0d4e72c2814f1b703d52e0f343224aad912fd31a3fde6d5e3ecfef8"
-    }
-  },
-  "marshmallow": {
-    "paths": [
-      "marshmallow.png"
-    ],
-    "q": "Goofy finds something that looks like his hat, but it is stuck. What we could use it to rescue it?",
-    "a": "A marshmallow it could be Used as part of the search/rescue process.",
-    "sha256s": {
-      "marshmallow.png": "bbf91d2d9d3364c833fc9806c8e26a5a61929e8fef56030faa97d3786510e2ee"
-    }
-  },
-  "hoppity ball": {
-    "paths": [
-      "Hoppity.Ball.png"
-    ],
-    "q": "Goofy's hat is finally discovered in a high/inaccessible place. What Goofy could use to jump?",
-    "a": "A hoppity ball. Helps Goofy bounce up and retrieve the hat.",
-    "sha256s": {
-      "Hoppity.Ball.png": "10435fe5c7e8e9a5444bfaa3912f7ba217e76d2964370a8a335da1127dc7d18d"
+      "pixabay_37782.png": "a4f40762a5ea77e8e5883e7f66d9545438ef97ecd168b0bfa18738d4187695ef"
     }
   },
   "blow dryer": {
@@ -1517,548 +1735,6 @@
       "blow.dryer.jpeg": "20d4c455cf2e4aabcc559cacabdd7caef82ca63f328bb513792e3f477089ecb2"
     }
   },
-  "camera": {
-    "paths": [
-      "camera.png"
-    ],
-    "q": "Donald wants to film their dance. What Donald could use to film?",
-    "a": "A camera recorder could be use to film himself.",
-    "sha256s": {
-      "camera.png": "cfe8c7c0565299ee5bacbfc34ac8248d32062966f55edecc1544eb3533713def"
-    }
-  },
-  "beach blanket": {
-    "paths": [
-      "beach.blanket.png"
-    ],
-    "q": "Daisy wants to have a picnic in the grass. What Daisy could use to sit in the grass?",
-    "a": "A beach blanket could be useful.",
-    "sha256s": {
-      "beach.blanket.png": "b1e09f5490b66405dc58bfe931061275dd3007a3d4ac28d28569c1405bd33378"
-    }
-  },
-  "pumpkin": {
-    "paths": [
-      "pixabay_5555850.png"
-    ],
-    "q": "We want to give a halloween party. What we could use to create a lantern for halloween?",
-    "a": "A pumpkin could be great to cut and used for a lantern.",
-    "sha256s": {
-      "pixabay_5555850.png": "c86ede200c802dc6fa5d0ff5c1c0b9292a95f9d69ffc030e0a4494d7fc7d211b"
-    }
-  },
-  "mallet": {
-    "paths": [
-      "mallet.jpeg",
-      "pixabay_153049.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "mallet.jpeg": "478a5ef17cc92228a8224ffba8e07cbb51647b2209fb4da69eb3f2abb4e95ebe",
-      "pixabay_153049.png": "dc956b9cb72f5cb9e4f96e4bb96688f2327fbc9f0e34f19c2c1e0f00675ba46c"
-    }
-  },
-  "rubber duckies": {
-    "paths": [
-      "rubber.duckies.png"
-    ],
-    "q": "The baby elephant needs to take a bath but doesn't want to get into the tub. What could make the bath fun?",
-    "a": "The duckies make bath time fun, so the elephant gets into the tub.",
-    "sha256s": {
-      "rubber.duckies.png": "66f35ac6584ddf1386bab2562334087e7e4b1f338d6a5b794ca79ea01bca145a"
-    }
-  },
-  "feather": {
-    "paths": [
-      "feather.png"
-    ],
-    "q": "The baby elephant gets stuck in the slide. What can we use to make the elephant laugh?",
-    "a": "They tickle the elephant's trunk with the feather, making her giggle and wiggle free.",
-    "sha256s": {
-      "feather.png": "464f83c926c250f86f6bb6a49522ecdcc900b2d2305b6a964cb99d7261caed69"
-    }
-  },
-  "gong": {
-    "paths": [
-      "gong.png"
-    ],
-    "q": "They need to call all their friends to the carnival. What we could use to call it?",
-    "a": "The gong makes a loud sound that everyone can hear.",
-    "sha256s": {
-      "gong.png": "af6ab09f55543282f54ed65ecd4d46679ed8c69b824952ab0605c59846d616fe"
-    }
-  },
-  "string": {
-    "paths": [
-      "string.png"
-    ],
-    "q": "They need to know how much more corn is needed to fill the jar. What we could use to measure?",
-    "a": "The string is used to measure the jar and find the halfway point.",
-    "sha256s": {
-      "string.png": "95aa8e48c808ecab08cfd658ceb9f4b3e6d380840408689c2aed5ca6df258c95"
-    }
-  },
-  "parachute": {
-    "paths": [
-      "parachute.png"
-    ],
-    "q": "All the corn accidentally turns into popcorn, and they need something large enough to hold it. What the could use it?",
-    "a": "They turn the parachute upside down and use it as a giant bag to collect the popcorn.",
-    "sha256s": {
-      "parachute.png": "dd7a4cf09cd660e514cc70f68765f011beba841fa2ef5366b62d9d58540ca587"
-    }
-  },
-  "pete pants": {
-    "paths": [
-      "pete.pants.png"
-    ],
-    "q": "Pete’s pants are torn. What we could use it to replace?",
-    "a": "A pair of pete's pants used to replace Pete’s torn pants.",
-    "sha256s": {
-      "pete.pants.png": "4eb06a783d4451479d603f888b348d4833cd2f1e51d580e589a7cca92f0f194b"
-    }
-  },
-  "toothbrush": {
-    "paths": [
-      "toothbrush.png"
-    ],
-    "q": "Pete has very dirty teeth. What we could use to clean Pete?",
-    "a": "A giant toothbrush could be Used to clean Pete’s teeth.",
-    "sha256s": {
-      "toothbrush.png": "21af378104afca52171ea0c23afb320aa5341415a59718647153a93a8592b11f"
-    }
-  },
-  "motor home": {
-    "paths": [
-      "motor.home.png"
-    ],
-    "q": "Mickey and Minnie are going to camping. What the could use to travel?",
-    "a": "A motor home is really good to go camping.",
-    "sha256s": {
-      "motor.home.png": "6b33719dbd7773d17d943353f8ceb7888d7dfe0691d83ae5d51b217e3bc62b5a"
-    }
-  },
-  "flag": {
-    "paths": [
-      "flag.png"
-    ],
-    "q": "Mickey and Minnie arrive to the camping and wants to decorate the venue. What they could use?",
-    "a": "A flag could be used to decorate the place.",
-    "sha256s": {
-      "flag.png": "2314750d9f2b846f8cee05940a17210e148796562f7e5114160f137a8a84e916"
-    }
-  },
-  "paint brush": {
-    "paths": [
-      "paint.brush.jpeg"
-    ],
-    "q": "The place is neglected and needs painting. What Micky and Minnie could do to improve the place?",
-    "a": "The could use a paint brush to paint the place.",
-    "sha256s": {
-      "paint.brush.jpeg": "a43120281f9c2c7c1b8ff6d86478f9e45ef3f6a7a6d344b56880faa54dc6cdb8"
-    }
-  },
-  "rubber duck": {
-    "paths": [
-      "rubber.duckie.png"
-    ],
-    "q": "A baby didnt want to take a bath. What Minnie could use to make bath time fun?",
-    "a": "Minnie can lend a rubber duck to make bath time fun.",
-    "sha256s": {
-      "rubber.duckie.png": "e94a314121f487a31f1c948fd0862c329fffe42fcfe3ce546ef286e839f63685"
-    }
-  },
-  "cup": {
-    "paths": [
-      "cup.webp"
-    ],
-    "q": "Mickey needs to make circles for his drawing. What Mickey could use it?",
-    "a": "A cup could be used as a guide to trace round shapes.",
-    "sha256s": {
-      "cup.webp": "8ee83cfba046f0536e887801bcbb8e5713b0f5c651fea778e7cdc2d1fc6dbecc"
-    }
-  },
-  "record player": {
-    "paths": [
-      "record.player.png"
-    ],
-    "q": "Goofy needs something to spin the clay so he can make a pot. What Goofy could use it?",
-    "a": "A record player could be used as a makeshift pottery wheel because it spins around.",
-    "sha256s": {
-      "record.player.png": "4e18a6a21ec2521696de749691069f67c67d199182efab4bb7fefcf9a7120751"
-    }
-  },
-  "woodpecker": {
-    "paths": [
-      "woodpecker.png"
-    ],
-    "q": "Mickey and Pluto’s tent falls over because the tent poles are different heights. What Mickey could use to cut the larger?",
-    "a": "The woodpecker pecks the longer wooden pole until both poles are the same height.",
-    "sha256s": {
-      "woodpecker.png": "3724bcf3e09d4f28384153d4e0ea217e3ee04e5df4e85d2bdd57034f4ba9f889"
-    }
-  },
-  "leaf blower": {
-    "paths": [
-      "leaf2.blower.png",
-      "dm6psv1-9d1673c9-2bd6-4559-9460-300c13e2fd8d.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "leaf2.blower.png": "e6211afe4392f59d15adc83a6dff846b19c39cc49bf237b3af0750cab347e373",
-      "dm6psv1-9d1673c9-2bd6-4559-9460-300c13e2fd8d.png": "78b749f8d7d031fe38ce382b9e1da10ca83cca90a18029383ce53c89a5e9d06c"
-    }
-  },
-  "metal pot": {
-    "paths": [
-      "metal.pot.png"
-    ],
-    "q": "Willie the Giant is blocking the stream, preventing the fish from reaching Circle Lake.  What we could use it to make a loud bang?",
-    "a": "They bang the pot loudly like a drum to wake Willie and ask him to move his feet.",
-    "sha256s": {
-      "metal.pot.png": "3d0db947f3adce789ae65cab405670a481db449adc4b8d2bcfcd2a31fcef367c"
-    }
-  },
-  "puppy bubble bath": {
-    "paths": [
-      "Puppy.Bubble.Bath.jpeg"
-    ],
-    "q": "Pluto’s bath has no bubbles. What we could use it?",
-    "a": "A puppy bubble bath adds bubbles to Pluto’s bath.",
-    "sha256s": {
-      "Puppy.Bubble.Bath.jpeg": "3c77166d9a5cb13a7198fdaf17e55e2934edfdd212a4c6573beefeee34ed0a7a"
-    }
-  },
-  "bath towel": {
-    "paths": [
-      "bath.towel.webp"
-    ],
-    "q": "Mickey and Pluto are floating toward sharp cactus needles. What we could use it to cover the cactus?",
-    "a": "A bath towel could covers the cactus needles so the bubbles can safely bounce off them.",
-    "sha256s": {
-      "bath.towel.webp": "9e0b435f0c548dbd633665d4fd0d0d50a11e2d502747a09161120c1af76896ad"
-    }
-  },
-  "blocks with numbers": {
-    "paths": [
-      "blocks.numbers.png",
-      "djrq1km-91f73c54-8d1c-4eee-9423-de04767e3a7b.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "blocks.numbers.png": "8f400880171ad5aef536fa4a9281a1ef484dd208edf081970c59379a5609ec88",
-      "djrq1km-91f73c54-8d1c-4eee-9423-de04767e3a7b.png": "9fe26a6165077e067288f75149821ebd034555ae69f1e4a45d73eb01913f5e45"
-    }
-  },
-  "kite": {
-    "paths": [
-      "kite.png"
-    ],
-    "q": "They need to send an invitation to Willie the Giant, who lives high in the clouds. What we could use it?",
-    "a": "They attach the invitation to the kite and fly it up to Willie.",
-    "sha256s": {
-      "kite.png": "6c95ec711b3e8fb4c210ca987437e414b2603fdc27505de12a30cc8569348f77"
-    }
-  },
-  "gumballs": {
-    "paths": [
-      "gumballs.png"
-    ],
-    "q": "The Toon Car is out of gas. What we could use it?",
-    "a": "The gumballs are used to fill the gas tank; four gumballs are needed.",
-    "sha256s": {
-      "gumballs.png": "a34f21fb75901e744148ba2850ebf1c0d40ab9b447eef446d85cfa2dae15774e"
-    }
-  },
-  "red rope": {
-    "paths": [
-      "red.rope.png"
-    ],
-    "q": "There is a tall wall blocking the way to Clarabelle’s bakery. What we could use it to climb the wall?",
-    "a": "The long red rope allows them to climb over the wall.",
-    "sha256s": {
-      "red.rope.png": "5986d55be6fe4a3f717130a523a58bee2d0251dbcabf4cbfeaaa53971c1f8e43"
-    }
-  },
-  "ball of yarn": {
-    "paths": [
-      "ball.yarn.png",
-      "dm18c6a-05bd852c-cfdf-4ad0-9148-bd5c1c3401fc.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "ball.yarn.png": "2ebf4728171eaf4b7e89c4e2c24bf2bd2c406db0d411abe175cb54f4325c64ad",
-      "dm18c6a-05bd852c-cfdf-4ad0-9148-bd5c1c3401fc.png": "6b4fb0b0191449935505037fdd5aabc8ca931ea8600dfa54aeb26e1260f28c16"
-    }
-  },
-  "mouseke mugs": {
-    "paths": [
-      "Mouseke-Mugs.png"
-    ],
-    "q": "They need to keep the hot chocolate warm while traveling up the mountain. What the could use?",
-    "a": "The mugs carry the hot chocolate and keep it warm.",
-    "sha256s": {
-      "Mouseke-Mugs.png": "d1a371f1be284d350aebb2543ebb18be9e3e203540995f44fe28c247e8a9b082"
-    }
-  },
-  "winter scarf": {
-    "paths": [
-      "winter.scarf.png"
-    ],
-    "q": "Mickey gets stuck in a snowbank. What we could use to pull Mickey?",
-    "a": "The scarf coulb be used to pull Mickey out of the snow.",
-    "sha256s": {
-      "winter.scarf.png": "dfa10913d863397e3cded3ffc99d04eba2a396900033100662be6e7b338af10b"
-    }
-  },
-  "jingle bells": {
-    "paths": [
-      "jingle.bells.png"
-    ],
-    "q": "Pete's sleigh needs to announce that they are coming through the snow. What we could use to make sound?",
-    "a": "The bells could be attached to the reindeer so everyone can hear the sleigh approaching.",
-    "sha256s": {
-      "jingle.bells.png": "9091a0ce525386c12cfdd91aa5331de060877a364d6787efa2afcdad34b52390"
-    }
-  },
-  "music box": {
-    "paths": [
-      "music.box.png",
-      "dluetqr-3711a709-9063-4470-8fdc-570e439ed776.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "music.box.png": "9d4b2f6ceb26b8cb92c2bc4b1af853061c7cb5aba547e2afccd0e9b6470f8d97",
-      "dluetqr-3711a709-9063-4470-8fdc-570e439ed776.png": "0872d4ab7a3d752369018e9080e6649eaad8270dc9a9310f319b2a41b39829f2"
-    }
-  },
-  "yo yo": {
-    "paths": [
-      "yo-yo.png"
-    ],
-    "q": "The Silken Banner is high up and out of reach. What we could use to reach it out?",
-    "a": "Goofy uses the yo-yo to hook and grab the banner.",
-    "sha256s": {
-      "yo-yo.png": "50ed8af3f73568b3c7ff4b6f0e1094d2e7f5ea2e935e8189024a8f382afab147"
-    }
-  },
-  "wind up toy": {
-    "paths": [
-      "wind.up.toy.png"
-    ],
-    "q": "They need to measure 15 Chip-and-Dale-sized steps to find the secret door. What they could use?",
-    "a": "The toy drummer takes steps the same size as Chip and Dale, allowing them to count exactly 15 steps.",
-    "sha256s": {
-      "wind.up.toy.png": "570bc7d8464715db8cb7e517af8facb442733810bd9a4c346774a2f1d15f3a00"
-    }
-  },
-  "bouquet roses": {
-    "paths": [
-      "bouquet.roses2.png"
-    ],
-    "q": "A giant shoe smells terrible in the nursery rhyme “The Old Woman in the Shoe.” What we could use it to improve the smell?",
-    "a": "The roses are tossed into the shoe to make it smell better.",
-    "sha256s": {
-      "bouquet.roses2.png": "ca831da367aad5063de776d977de886e5b6b35d015c1a85b5b66c16dc1ebc09f"
-    }
-  },
-  "tennis racket and ball": {
-    "paths": [
-      "racket.ball.png"
-    ],
-    "q": "A target is far away and they need to hit it to cross. What Minnie could use to reach the cross?",
-    "a": "Minnie hits the ball at the target, opening the way forward.",
-    "sha256s": {
-      "racket.ball.png": "a74544449679271d9d2cc6164f37bc65eb7dbaff90439c8e5ffd52ff20ade011"
-    }
-  },
-  "sand bucket and shovel": {
-    "paths": [
-      "sand.shovel2.png"
-    ],
-    "q": "The Moon Men will only return Pluto’s ball if the group shows them a fun game. What we could use to build sand castles?",
-    "a": "They use the sand bucket and shovel to build sand castles with the Moon Men.",
-    "sha256s": {
-      "sand.shovel2.png": "b906466f01ee899738ffc0942978b6bb34cf5744c58d480e54b2439785f099a3"
-    }
-  },
-  "secret spy googles": {
-    "paths": [
-      "pixabay_303511.png"
-    ],
-    "q": "A wall blocks their path, and they cannot see a door. What google could Daisy use?",
-    "a": "Daisy's goggles reveal the invisible/secret door in the wall.",
-    "sha256s": {
-      "pixabay_303511.png": "6301b8a60b8b50c9aca5425fa65da4eeba02906b2a125c0380f61bfc20f17991"
-    }
-  },
-  "carpet": {
-    "paths": [
-      "carpet2.png",
-      "carpet.png"
-    ],
-    "q": "Its a great hole in the path. What Chase and Pluto could use it to cover it?",
-    "a": "The red carpet could be use to cover the hole and continue the route.",
-    "sha256s": {
-      "carpet2.png": "0cbf3a7b50885af7824f8dc1ed2b144bd4755876bb36d5c841b5186a082bea0b",
-      "carpet.png": "7cb40e6f25ff8444987f0248f2e005a8aa0bca03c836661896041b8f927d1673"
-    }
-  },
-  "vacuum cleaner": {
-    "paths": [
-      "vacuum.cleaner.png"
-    ],
-    "q": "The wind has covered the circle of stones with sand, hiding the location of the treasure. What we could use to remove the sand?",
-    "a": "Mickey use the vacuum cleaner to remove the sand and uncover the circle of stones, revealing where the treasure is buried.",
-    "sha256s": {
-      "vacuum.cleaner.png": "5340e06b3ad2eaeed50c7cb5b0155ead796b1e9009b6d39089465e8dbcb9a792"
-    }
-  },
-  "thermometer": {
-    "paths": [
-      "thermometer.png"
-    ],
-    "q": "The sand is extremely hot, and they need to find the coolest place for the luau. What we could use to measure the temperature?",
-    "a": "They use the thermometers to compare temperatures and find the cooler spot in the shade.",
-    "sha256s": {
-      "thermometer.png": "e7426d45e2070a0387ed41d77fb5ef52e596b8551a13bb44ed2c980f2907de4f"
-    }
-  },
-  "shape stickers": {
-    "paths": [
-      "shape.stickers.png",
-      "dm6lms5-2c4a7dda-c129-41f6-a0f3-239c89ac86a3.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "shape.stickers.png": "64a4c47ee10cc243abd0f111297c6d8139e186cdf8c455794313f288635f7dd4",
-      "dm6lms5-2c4a7dda-c129-41f6-a0f3-239c89ac86a3.png": "539078a8317cc3ffe872336ef04d44af0449a9f3f913b765446bd5971fbf9307"
-    }
-  },
-  "hand fan": {
-    "paths": [
-      "hand.fan.png"
-    ],
-    "q": "Pluto is too hot after his fan is turned off. What we could use it to cool Pluto?",
-    "a": "The hand fan keeps Pluto cool without making a buzzing sound.",
-    "sha256s": {
-      "hand.fan.png": "fe8345e756aa3547ff577fc3cac76d7e9322f9ccbff8ba9b236070c92fb739b3"
-    }
-  },
-  "sheep": {
-    "paths": [
-      "sheep.png",
-      "sheep_by_celinesbastian13_dmv3z1z-375w-2x.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "sheep.png": "73007f303712757b2f2d1227730c3ce87ac70d1c71a68d85cc9eff59109d0039",
-      "sheep_by_celinesbastian13_dmv3z1z-375w-2x.png": "90c1b64b09455ea2f16d71103b1d10e1b18e0690c0af5178cc57b126f5c6f426"
-    }
-  },
-  "button": {
-    "paths": [
-      "button.png"
-    ],
-    "q": "The locomotive's wheel breaks.  What we could use it as wheel?",
-    "a": "A giant button could be used as a replacement wheel.",
-    "sha256s": {
-      "button.png": "fa5404b6f3239c4fdb4d4fb38634b0c83be06ef310d54deaab50dafd20bb7580"
-    }
-  },
-  "chase": {
-    "paths": [
-      "chase.paw.patrol.webp"
-    ],
-    "q": "Pluto needs help from an old friend. Who could help Pluto?",
-    "a": "Chase could be useful when Pluto needs help.",
-    "sha256s": {
-      "chase.paw.patrol.webp": "014eb73f1f98f049f1f3c5c64412cd1d3d6b1179ed5555e2fba40eb1cb99feb6"
-    }
-  },
-  "siren": {
-    "paths": [
-      "siren.png"
-    ],
-    "q": "The gang is flying through thick clouds, where people and aircraft cannot see them. What we could use to make loud sound?",
-    "a": "The siren warns others that they are coming.",
-    "sha256s": {
-      "siren.png": "48102cced133c6c31844e582b74926e9978b7f0a4ffcbfd3edbde16e127cab69"
-    }
-  },
-  "lettuce and carrots": {
-    "paths": [
-      "lettuce.carrots.png",
-      "dkd1kjh-e89e3e63-085f-43d3-9c66-b8c094ae876f.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "lettuce.carrots.png": "94364cead752915dd22afab099d748a60b3fd251f22408ba1b85ca698cdfd1a8",
-      "dkd1kjh-e89e3e63-085f-43d3-9c66-b8c094ae876f.png": "94364cead752915dd22afab099d748a60b3fd251f22408ba1b85ca698cdfd1a8"
-    }
-  },
-  "ice cream cone": {
-    "paths": [
-      "ice.cream.webp"
-    ],
-    "q": "Captain Donald's boat has leaks and they need to cross the river. What Donald could use to cover the holes?",
-    "a": "Donald put the ice cream cones into the round holes to plug the leaks.",
-    "sha256s": {
-      "ice.cream.webp": "0e9b5668f00c27e824d3c9b185fe0562b770ff1491e99fe957ae6448552f5dfc"
-    }
-  },
-  "mirror": {
-    "paths": [
-      "mirror.png"
-    ],
-    "q": "A giant toad is blocking the road. What we could use to move the toad?",
-    "a": "The mirror attracts the toad because it becomes fascinated by its own reflection, allowing them to move it away.",
-    "sha256s": {
-      "mirror.png": "12305589d176405a3e0f782be01f85404eaae57c40f9633725095a632293eac2"
-    }
-  },
-  "ice cubes": {
-    "paths": [
-      "ice.cube.png",
-      "dly71wm-03084b89-9e69-4b47-b9b5-2976feb8c69f.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "ice.cube.png": "89e23d1fe65f781c2ad802b02ac3720e6010d86add30e4db8b3d4f17fceaa393",
-      "dly71wm-03084b89-9e69-4b47-b9b5-2976feb8c69f.png": "51483b3f71fa5fc46af3194b75b4ab1d62f5a397782ced86994b5131deb70ef3"
-    }
-  },
-  "colorful cards": {
-    "paths": [
-      "colorful.cards.png"
-    ],
-    "q": "Salty keeps mixing up the horns. How we could help Salty to follow the colors?",
-    "a": "The cards mark each horn with a different color so Salty can play them in the correct order.",
-    "sha256s": {
-      "colorful.cards.png": "63829403900a19a3e8667fc5f4f945c694b1ca31fe7663d57b391cedd0398caf"
-    }
-  },
-  "cork": {
-    "paths": [
-      "cork.png",
-      "dly71wm-d18d268e-231d-4736-84bc-e03723265fd4.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "cork.png": "4711dc5a303e0af67a27e5e79ceb27901dcfaeccb928e6aec0d8fb0a874a1cdb",
-      "dly71wm-d18d268e-231d-4736-84bc-e03723265fd4.png": "08854de8134553c4d37bd732e200a54a147b6856aa218547354a3c0e649fd642"
-    }
-  },
   "bologna sandwich": {
     "paths": [
       "bologna.sandwich.png"
@@ -2067,68 +1743,6 @@
     "a": "The sandwich makes them hungry, so they eat it and slide down the slide to get out.",
     "sha256s": {
       "bologna.sandwich.png": "980446e10bb42a71e263f6069dd3b2ef2bc1680eb2f754be4bdff8775940ee84"
-    }
-  },
-  "bag of flour": {
-    "paths": [
-      "bag.flour.png"
-    ],
-    "q": "They need to connect the numbered dots on the grass to complete a giant picture. What we could use to connect the dots?",
-    "a": "They pour flour from one number to the next, connecting all the dots.",
-    "sha256s": {
-      "bag.flour.png": "34f78db026141f575aa2ad5236226abbadc007938effd17ae79707abed6ce8f3"
-    }
-  },
-  "monkey": {
-    "paths": [
-      "monkey.webp"
-    ],
-    "q": "They need to reach the top of a pole and open a treasure chest without tipping it over. What we could use it that climb?",
-    "a": "The monkey climbs the pole and opens the treasure chest.",
-    "sha256s": {
-      "monkey.webp": "d7af514bb9e191f9df8929561bcf9c7a6420c00bc1629069c1952a034067d654"
-    }
-  },
-  "keys": {
-    "paths": [
-      "key.shapes.png",
-      "llaves.webp"
-    ],
-    "q": "What we could use to open the door?",
-    "a": "The keys could help us to open it.",
-    "sha256s": {
-      "key.shapes.png": "b8fe760da26bc942af88aafe5f1292afffcd646500e8944d9bc8ffd6bc73f87f",
-      "llaves.webp": "bf310e4234f8096e0df20797b200a62c0fb535d1fda8741649c6d5e8459f2394"
-    }
-  },
-  "carton milk": {
-    "paths": [
-      "carton.milk.png"
-    ],
-    "q": "Goofy needs to finish his recipe. What we could use to complete the chocolate milk?",
-    "a": "He has chocolate syrup, and the milk allows him to make chocolate milk, which they use to attract Cuckoo.",
-    "sha256s": {
-      "carton.milk.png": "0e74fe6b832c9c6c8b5154aab5e749b9449317f9c85d972cf804965fd5794d58"
-    }
-  },
-  "three balls": {
-    "paths": [
-      "three.balls.png"
-    ],
-    "q": "Clarabelle needs a yellow croquet ball to match her yellow mallet. What we could use it?",
-    "a": "Clarabelle choose the yellow ball so they can play croquet.",
-    "sha256s": {
-      "three.balls.png": "3d781cae47093a598ca348cb5185eb3b30220abf72814bfe7322a7a9470fa719"
-    }
-  },
-  "skye": {
-    "paths": [
-      "Skye_Presentation_%282012%29.webp"
-    ],
-    "q": "We need help for a air rescue. Who could help Goofy?",
-    "a": "Skye from the Paw Patrol. She could help Goofy because she is aerial rescue expert",
-    "sha256s": {
-      "Skye_Presentation_%282012%29.webp": "be9f8ca15a6c35c8243314eb3c9e5e54c0ee810a0227ce3bcc7777f35618059b"
     }
   },
   "toilet paper": {
@@ -2183,16 +1797,6 @@
       "pixabay_6470977.png": "f0375a80b4e74ef7a1f8ec638356cba67877c0d254f6039aee9a80831dd19d2e"
     }
   },
-  "halloween": {
-    "paths": [
-      "pixabay_23439.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_23439.png": "4848f7e03ca803db669466dece9edb67000c20d6428e3ff9609223c2461b1e79"
-    }
-  },
   "glue": {
     "paths": [
       "pixabay_306757.png",
@@ -2205,28 +1809,6 @@
       "pixabay_306757.png": "b360b7d7fe24cfba1733fe89a529d81c5fba97d1ac1e3ae004b9654783c2ba38",
       "pixabay_304256.png": "72068db05cda97a70436cb4f4fb852fb72d463a873fdc13b3aee7d2986899c2a",
       "pixabay_38201.png": "0a0634a55caba0a5d0c5f02a83a5c172ec56fa4671e4f3d33aad65f2e7453376"
-    }
-  },
-  "bowling": {
-    "paths": [
-      "pixabay_157933.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_157933.png": "346d7ad6709aa32111c8c96c71dd89dc2352279a83520560d19eba68ee985173"
-    }
-  },
-  "notebook": {
-    "paths": [
-      "pixabay_149494.png",
-      "CuadernostudioA5Rayado_pinksand_CU091301_01_1200x1200.webp"
-    ],
-    "q": "What we could use to write?",
-    "a": "A notebook will help us",
-    "sha256s": {
-      "pixabay_149494.png": "9bc6277258ab0f6541c1fb18cc52292f2e875a3e91da45e80ef22d0a044b1e3d",
-      "CuadernostudioA5Rayado_pinksand_CU091301_01_1200x1200.webp": "261d8ab3bd6c8a34595a6ea34c712a854c53a01a1bb1f29f6f8978aa6b313109"
     }
   },
   "handheld": {
@@ -2293,16 +1875,6 @@
     "a": "",
     "sha256s": {
       "pixabay_9377454.png": "3440aba0f4bf7c9ac5d3a8e38f90aeef6351e4c334f493b0240fe90e54bb9624"
-    }
-  },
-  "bomb": {
-    "paths": [
-      "pixabay_2025548.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_2025548.png": "e4222c675b24686d049be6dc27466c9486590115c79ba2d9313b8e173ba3f33f"
     }
   },
   "gun": {
@@ -2436,8 +2008,8 @@
       "pixabay_3092886.png",
       "dm6resw-a69348d7-381f-4f1e-ac84-5bbc2d902af5.png"
     ],
-    "q": "",
-    "a": "",
+    "q": "We need to feed the birds. What we could use it?",
+    "a": "Bread could be great for birds.",
     "sha256s": {
       "pixabay_3092886.png": "8c29f89f72e6bdc4142d328d8b58c56afe3b3960d267d5f745ffeebd7e1a043a",
       "dm6resw-a69348d7-381f-4f1e-ac84-5bbc2d902af5.png": "c44220167d449fae85d38b282c802d5f446d4d3c0c6172a7a5065e2911cd5e16"
@@ -2507,16 +2079,6 @@
       "_blue_watering_can_by_cddavies08_dm3q4ws-pre.png": "e316c6d28752eb088400a93892fea0f583f7d462e7167fe1166b879900dd007e"
     }
   },
-  "apple seed": {
-    "paths": [
-      "pixabay_575319.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_575319.png": "9c0c2199279b07b56f5c9833c10196f3874f9d79077f6fbc13be7721b3e19129"
-    }
-  },
   "pixel": {
     "paths": [
       "pixabay_3683374.png"
@@ -2547,16 +2109,6 @@
       "pixabay_312033.png": "f2a8ec3c6f6695ce2dc7a2e8e713c14a02439103babd04c19ea7cf9934cd4353"
     }
   },
-  "navigation": {
-    "paths": [
-      "pixabay_154923.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_154923.png": "609efeeee54cb5b17f3c76e2f224864fa5b22a2b54e68aa5578282d1b0ddc236"
-    }
-  },
   "ladle": {
     "paths": [
       "pixabay_159514.png"
@@ -2577,16 +2129,6 @@
       "pixabay_311262.png": "2adb3be54138bda3c6c77f9c8dd8a52b970deae445fb9b2c38d34b348680147b"
     }
   },
-  "rocket": {
-    "paths": [
-      "pixabay_153227.png"
-    ],
-    "q": "What we could use it to flight to the space?",
-    "a": "A rocket could help us to flight direcly to the moon.",
-    "sha256s": {
-      "pixabay_153227.png": "a4d234698022da26f931ba432474a4e1ea31c86404f4b3d3c63b70b693d08bb0"
-    }
-  },
   "juice": {
     "paths": [
       "pixabay_25189.png"
@@ -2595,18 +2137,6 @@
     "a": "",
     "sha256s": {
       "pixabay_25189.png": "2024cd1405cd8df1430b9e24a1ace5fd0cf063c989a691ae1d9a6092fb913731"
-    }
-  },
-  "axe": {
-    "paths": [
-      "pixabay_158277.png",
-      "axe.jpeg"
-    ],
-    "q": "What we could use for chopping wood?",
-    "a": "An Axe could help us to chopping wood and open the path.",
-    "sha256s": {
-      "pixabay_158277.png": "86cce1a6d9524a8414ed7bd062416645e6a3ca1a289e792d7eb8870269fe6f03",
-      "axe.jpeg": "befc2a7a82a8ece06ec6da1fab56db921bc45fe61af0f20e1ed015a6fa41d027"
     }
   },
   "earmuffs": {
@@ -2619,16 +2149,6 @@
       "pixabay_25676.png": "b5f8059b3a013ec819a964aaa92782c301cdd5c1e8dbaebdf05e95775f2170eb"
     }
   },
-  "baton": {
-    "paths": [
-      "pixabay_303305.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_303305.png": "b6cfa814038067fed33f58d5c76a8ab919759304ecfb265ea9e6e1b0c3e22554"
-    }
-  },
   "ventilator": {
     "paths": [
       "pixabay_160042.png"
@@ -2637,18 +2157,6 @@
     "a": "",
     "sha256s": {
       "pixabay_160042.png": "96c2a6c40adffda96a91ca186fcbaf532c708b536549387552ca67a3dbba97f4"
-    }
-  },
-  "bouncing ball": {
-    "paths": [
-      "pixabay_34216.png",
-      "bouncy_ball_by_siggisen_dkli6ho-375w-2x.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_34216.png": "cfbe4e0da1ef27eeca8ccd42ef43415a9e98e434fa362b59b163545c86fb8a47",
-      "bouncy_ball_by_siggisen_dkli6ho-375w-2x.png": "2d8bddfe57667512e5d055981516cde780e94f3f182d1155f775dc5cee97151b"
     }
   },
   "tape": {
@@ -2693,16 +2201,6 @@
       "pixabay_1139689.png": "dba61e6c337bce019e673f28e5626f436d16ec4fe4b6a1d93d639b4c7c735d17"
     }
   },
-  "beachball": {
-    "paths": [
-      "pixabay_311978.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_311978.png": "d747ca1d1980705201add1c7d12cfe0b7ea7e1f43828dc4d99c4d6cd3a549a79"
-    }
-  },
   "candy": {
     "paths": [
       "pixabay_1893297.png"
@@ -2723,14 +2221,14 @@
       "pixabay_150607.png": "82d93e9f0359081ea212d03d553bdc2142746a806ff34f8eea3604ba18744eb5"
     }
   },
-  "alphabet word images": {
+  "blocks with numbers": {
     "paths": [
-      "pixabay_1293460.png"
+      "blocks.numbers.png"
     ],
-    "q": "",
-    "a": "",
+    "q": "We need to order the numbers. What we could use it?",
+    "a": "The blocks with numbers could be used to guess the password.",
     "sha256s": {
-      "pixabay_1293460.png": "6dc186be2c8a9e715a9bce23c93fb5c3ebe9a1c06d69f9cf2801420eab20b571"
+      "blocks.numbers.png": "8f400880171ad5aef536fa4a9281a1ef484dd208edf081970c59379a5609ec88"
     }
   },
   "suction cups shoes": {
@@ -2763,6 +2261,18 @@
       "pixabay_7314740.png": "52049857d0ef7c0059800e71eec2b61e2d2dc6add7fad5a92ce7bfc6aafc26a1"
     }
   },
+  "mallet": {
+    "paths": [
+      "pixabay_153049.png",
+      "mallet.jpeg"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "pixabay_153049.png": "dc956b9cb72f5cb9e4f96e4bb96688f2327fbc9f0e34f19c2c1e0f00675ba46c",
+      "mallet.jpeg": "478a5ef17cc92228a8224ffba8e07cbb51647b2209fb4da69eb3f2abb4e95ebe"
+    }
+  },
   "ribbon symbol": {
     "paths": [
       "pixabay_2818640.png"
@@ -2783,16 +2293,6 @@
       "pixabay_1865345.png": "5b083f11cfd2249ba50ca11f844d09f7ad0bb0ae235a1e8d3b58749dc7c235b6"
     }
   },
-  "battery": {
-    "paths": [
-      "pixabay_1294586.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_1294586.png": "cd8e35dec39c2585afa8325ba53532eb9ddd4c893bb4aa4d605fe3fddbcc318c"
-    }
-  },
   "construction": {
     "paths": [
       "pixabay_2027213.png"
@@ -2811,18 +2311,6 @@
     "a": "",
     "sha256s": {
       "pixabay_28941.png": "5237002e34ee2815ed9563dfc586b79d2e68fdb8210d6f462bef3479665f89c1"
-    }
-  },
-  "baseball glove": {
-    "paths": [
-      "pixabay_4269892.png",
-      "dljmo9u-01eace36-6158-4419-9c3a-1ec3cfbd5c70.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_4269892.png": "6443b09b8ae49ef3d201fee4823d36d96f7ccdd900b50a6d9efc1370557f6cf6",
-      "dljmo9u-01eace36-6158-4419-9c3a-1ec3cfbd5c70.png": "d63502b04c88467a35d3bcc1c3be1a456ce2fd59141346541c4befd23a70108e"
     }
   },
   "monster glow worm": {
@@ -2865,34 +2353,14 @@
       "vintage-bandage-png-ucb88-u3kx29fpikz3w8uc.png": "e2ade2922769a393011d5f5f5e16c377b8de3d33ceabb1c6183b2af9f4b3654b"
     }
   },
-  "baby bottles": {
-    "paths": [
-      "3_baby_bottles_by_cddavies08_dlx1xxa-pre.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "3_baby_bottles_by_cddavies08_dlx1xxa-pre.png": "e2e848ff2d9f4413ccd7564114365d088ffec90fc8d3cbfaf4f5d20c5adf2bdf"
-    }
-  },
   "bouncing shoes": {
     "paths": [
       "bouncy_shoes_by_dillcardinal1978_dkvpuue-pre.png"
     ],
-    "q": "",
-    "a": "",
+    "q": "What we could use to go up?",
+    "a": "The bouncing shoes could help to go up.",
     "sha256s": {
       "bouncy_shoes_by_dillcardinal1978_dkvpuue-pre.png": "34e9848c9a473250e54663a382d83f13032d9b9b4ecc74a720d2bf61dcc92a02"
-    }
-  },
-  "giant basket": {
-    "paths": [
-      "dkgkpeu-68a085b9-5789-419d-8c20-b3e42b4e2422.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "dkgkpeu-68a085b9-5789-419d-8c20-b3e42b4e2422.png": "2f6783fa1ff30bb0d2b9f27638dfcc129596f45e57cb69b207e760d568690b71"
     }
   },
   "pacifire": {
@@ -2905,18 +2373,6 @@
     "sha256s": {
       "dlufsb6-919d7cf6-eff3-4cc0-9d94-61c83eaaa8ae.png": "7055cb4d525de1220393065d0ab26d469cf7adbd90391bba1025f29ea63feff3",
       "dlua35b-1710eb06-700f-4763-9efd-29e79a30e4ca.png": "11025e1a25d179f284576c45f7453b37c8118d1320302255235e03b4554dd318"
-    }
-  },
-  "toolbox": {
-    "paths": [
-      "dlufsb6-bc1f243d-a68d-4978-a281-f907422d740c.png",
-      "pixabay_304894.png"
-    ],
-    "q": "The refrigerator is not working. We need to repair it. What we could help us?",
-    "a": "A toolbox could have some tools that could be used to repair the refrigerator.",
-    "sha256s": {
-      "dlufsb6-bc1f243d-a68d-4978-a281-f907422d740c.png": "10c1ec656233a27528e9a80f478c1fa68a134e3e506554f1e1e128969acd637e",
-      "pixabay_304894.png": "333b663cad0cf58e1d769ca4dd8e389ad456d34fc759bdf8e027caa0ea4173dc"
     }
   },
   "crane": {
@@ -2939,6 +2395,16 @@
       "dlufsb6-ff9ef5a7-0269-432a-a354-fbb70c1719f9.png": "2af142a49f40cf944ebef40a50cb6573feacb79c5c2ba64453bbf81a81e4aa31"
     }
   },
+  "lettuce and carrots": {
+    "paths": [
+      "dkd1kjh-e89e3e63-085f-43d3-9c66-b8c094ae876f.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dkd1kjh-e89e3e63-085f-43d3-9c66-b8c094ae876f.png": "94364cead752915dd22afab099d748a60b3fd251f22408ba1b85ca698cdfd1a8"
+    }
+  },
   "video camera": {
     "paths": [
       "dkoehfo-34c3e947-16f6-405d-9dbd-e099c4752e44.png"
@@ -2959,16 +2425,6 @@
       "ice_cream_cones_my_real_life_versions__by_lelekjohn_dmt3dgt-pre.png": "3a224af2504d39645888988ea2d15a67e2b776a8e4cfcd318f556feafdcdb135"
     }
   },
-  "baby hippo": {
-    "paths": [
-      "dkgkpur-2b8d88ae-f5a5-4c78-8563-e99058d94510.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "dkgkpur-2b8d88ae-f5a5-4c78-8563-e99058d94510.png": "bdca0fdb0db20ebf9e8b24365accd6f874680d75a589f676efe98fc603d30639"
-    }
-  },
   "coco the monkey": {
     "paths": [
       "dmj60o9-d6906dd5-ab0a-4359-b62a-dd15312d7356.png",
@@ -2981,24 +2437,28 @@
       "dm6r87v-8cf9f59e-f3bb-4100-ace9-83ce92090179.png": "691ebc3da9792362c04c013a1516c6ffcfd1084222a20a9f002d1f77a95fea67"
     }
   },
-  "big net black": {
+  "sheep": {
     "paths": [
-      "big_net_black__by_cddavies08_dmrzpwv-pre.png"
+      "sheep_by_celinesbastian13_dmv3z1z-375w-2x.png",
+      "sheep.png"
     ],
     "q": "",
     "a": "",
     "sha256s": {
-      "big_net_black__by_cddavies08_dmrzpwv-pre.png": "853a92fed6c613f53917fd115a54d2030a2fa7f2915cab5308240434f8a86f42"
+      "sheep_by_celinesbastian13_dmv3z1z-375w-2x.png": "90c1b64b09455ea2f16d71103b1d10e1b18e0690c0af5178cc57b126f5c6f426",
+      "sheep.png": "73007f303712757b2f2d1227730c3ce87ac70d1c71a68d85cc9eff59109d0039"
     }
   },
   "giant marshmallow": {
     "paths": [
-      "dm6r87v-950235eb-4131-4ab3-8129-0c8da6e5907b.png"
+      "dm6r87v-950235eb-4131-4ab3-8129-0c8da6e5907b.png",
+      "dm2g1pb-b018bc13-34ee-41af-a9dc-75999d46f441.png"
     ],
     "q": "",
     "a": "",
     "sha256s": {
-      "dm6r87v-950235eb-4131-4ab3-8129-0c8da6e5907b.png": "d7170c850fd51f347449827a8e93de8c927a0fde8756e74d5ea30249e06fc2b3"
+      "dm6r87v-950235eb-4131-4ab3-8129-0c8da6e5907b.png": "d7170c850fd51f347449827a8e93de8c927a0fde8756e74d5ea30249e06fc2b3",
+      "dm2g1pb-b018bc13-34ee-41af-a9dc-75999d46f441.png": "bbf91d2d9d3364c833fc9806c8e26a5a61929e8fef56030faa97d3786510e2ee"
     }
   },
   "glitter glue": {
@@ -3009,16 +2469,6 @@
     "a": "",
     "sha256s": {
       "dm6r87v-792b1f6f-4d68-40a9-8e04-f6b2086e56e2.png": "23ee45b25eeb026f20a8a86877f499b20e8154bbdfe2c9aab06c7805400b9f17"
-    }
-  },
-  "beach towels": {
-    "paths": [
-      "dm6r87v-0bc94485-fc84-47c4-ab47-201863e57044.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "dm6r87v-0bc94485-fc84-47c4-ab47-201863e57044.png": "5f8cbc7528068ad5310fb35d315b3dbf927af8db184aabfd38fca2632c2d5b26"
     }
   },
   "patrick": {
@@ -3061,6 +2511,18 @@
       "dm6lms5-47ec05cf-a886-4fd4-b562-ee85a6193d4b.png": "19f374b5a5fb43e3a4c183126b2d63688f979aeb32874543571459860d8182b9"
     }
   },
+  "shape stickers": {
+    "paths": [
+      "dm6lms5-2c4a7dda-c129-41f6-a0f3-239c89ac86a3.png",
+      "shape.stickers.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dm6lms5-2c4a7dda-c129-41f6-a0f3-239c89ac86a3.png": "539078a8317cc3ffe872336ef04d44af0449a9f3f913b765446bd5971fbf9307",
+      "shape.stickers.png": "64a4c47ee10cc243abd0f111297c6d8139e186cdf8c455794313f288635f7dd4"
+    }
+  },
   "willie the giant": {
     "paths": [
       "dm6lms5-c7115308-1fc9-4a5e-9bd6-8d2322900904.png"
@@ -3081,6 +2543,20 @@
       "clarabelle_s_new_coop_mouseketools_by_daltongknight2_dm6ntvx-375w-2x.png": "6f7309aa0aff88f171d7df8d1dbaf37d45e9781fbb70409f7edea97338449b76"
     }
   },
+  "xylophone": {
+    "paths": [
+      "dm6ntvx-1edaff28-9def-4000-8b14-d76881cfa4f7.png",
+      "dm6ntvx-67b4e80d-f4ee-4da6-8dfd-926a4f601ae7.png",
+      "Xylophone.webp"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dm6ntvx-1edaff28-9def-4000-8b14-d76881cfa4f7.png": "20680b77da13c578ad80499041f3cb0be1f9a8b8dd9bd3a01c2dba8f1ad6f9e1",
+      "dm6ntvx-67b4e80d-f4ee-4da6-8dfd-926a4f601ae7.png": "de55b8dc3b14ef1444776ad3eed46b03ffccc8d7004df40348a35f5a88298d7e",
+      "Xylophone.webp": "947f8edcb005b449b476cfcb95fe21e25bbcb0b46f7099a496ef18afcf644b3a"
+    }
+  },
   "pete": {
     "paths": [
       "dm6ntvx-ac2d80b5-fed8-4321-9f78-d52ae96a63c3.png"
@@ -3099,6 +2575,30 @@
     "a": "",
     "sha256s": {
       "pluto_s_playmate_mouseketools_by_daltongknight2_dly71wm-375w-2x.png": "1c47a872d692889750f9989ca11a0157007dc276f906d1bb1c88246028f070ce"
+    }
+  },
+  "ice cubes": {
+    "paths": [
+      "dly71wm-03084b89-9e69-4b47-b9b5-2976feb8c69f.png",
+      "ice.cube.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dly71wm-03084b89-9e69-4b47-b9b5-2976feb8c69f.png": "51483b3f71fa5fc46af3194b75b4ab1d62f5a397782ced86994b5131deb70ef3",
+      "ice.cube.png": "89e23d1fe65f781c2ad802b02ac3720e6010d86add30e4db8b3d4f17fceaa393"
+    }
+  },
+  "cork": {
+    "paths": [
+      "dly71wm-d18d268e-231d-4736-84bc-e03723265fd4.png",
+      "cork.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dly71wm-d18d268e-231d-4736-84bc-e03723265fd4.png": "08854de8134553c4d37bd732e200a54a147b6856aa218547354a3c0e649fd642",
+      "cork.png": "4711dc5a303e0af67a27e5e79ceb27901dcfaeccb928e6aec0d8fb0a874a1cdb"
     }
   },
   "giant net": {
@@ -3161,16 +2661,6 @@
       "dm6o957-8f423b55-af45-4200-be23-7bc5ca8a9321.png": "b29a288183cedfe26e187014a1f78b973846333e271a142e53ec119b866ff98a"
     }
   },
-  "beekepper clarabell": {
-    "paths": [
-      "dm6o957-2d7152c3-0a0d-4165-b95c-527d4d2cb557.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "dm6o957-2d7152c3-0a0d-4165-b95c-527d4d2cb557.png": "a049bbbfea90faca74234a9d2500e11ca658332aafa382877213e597a9cbf506"
-    }
-  },
   "motorbike": {
     "paths": [
       "pixabay_3051288.png"
@@ -3213,16 +2703,6 @@
     "sha256s": {
       "dmthela-00fa5ed2-13d6-4309-9450-586149a4cda8.png": "ffbccce26ae12b4c299ef24ac4c6fad7bc49347c84712e3d7b3e17170a10704d",
       "374-3743754_teddy-roblox-teddy-bear-gear.png": "5924d5f56a26a3ec6abc1371b86b1c77a1637607150d3391f5a0600e9c797e5b"
-    }
-  },
-  "birthday candle": {
-    "paths": [
-      "dl9wrk9-fc62b1df-2ca8-440a-b5cd-b97f7bd13c9b.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "dl9wrk9-fc62b1df-2ca8-440a-b5cd-b97f7bd13c9b.png": "7ebe43f139460c12ee67d44ace3e135cfbf5f9c6854c110a281de172b4accf89"
     }
   },
   "bowl of strawberries": {
@@ -3295,6 +2775,16 @@
     "a": "",
     "sha256s": {
       "dmjd8gt-624adab8-b192-4f60-8e5e-0dcb2f38bbbe.png": "9bdd701cda086e2e97ac7518b9cec753d7eda1dccc3f00b9753ca1bb9b6a0098"
+    }
+  },
+  "wagon": {
+    "paths": [
+      "dm6resw-e7fb50c1-541c-4d1b-bf34-09bccb02be88.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dm6resw-e7fb50c1-541c-4d1b-bf34-09bccb02be88.png": "e320abeca4f8b68266fa4f86a3e58d2f309cbbf7081c515af1b4506f003f7b52"
     }
   },
   "suction cup and arrow bow": {
@@ -3377,6 +2867,28 @@
       "dluetqr-b22e0c58-3b0d-4c2f-b90a-ecd3b53937b8.png": "22e89a5f6e07bacdaa70243565a15a60eacb88da475a8c578a0edae3da742afd"
     }
   },
+  "red wagon": {
+    "paths": [
+      "dluetqr-5e74b8b3-d5f7-49d2-97ea-c0a38e020987.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dluetqr-5e74b8b3-d5f7-49d2-97ea-c0a38e020987.png": "fd2dc6b8ada509d80b1ffdeb74d18b950d102cee7f2537bdf8169596bcb84049"
+    }
+  },
+  "music box": {
+    "paths": [
+      "dluetqr-3711a709-9063-4470-8fdc-570e439ed776.png",
+      "music.box.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dluetqr-3711a709-9063-4470-8fdc-570e439ed776.png": "0872d4ab7a3d752369018e9080e6649eaad8270dc9a9310f319b2a41b39829f2",
+      "music.box.png": "9d4b2f6ceb26b8cb92c2bc4b1af853061c7cb5aba547e2afccd0e9b6470f8d97"
+    }
+  },
   "oren": {
     "paths": [
       "d9824aeebb3c6909f72094c23d1bf055.png"
@@ -3419,236 +2931,6 @@
       "a97cefa918513bfcb9d9e8f9e7da7f90.png": "376a0a6df940ac2b8c88aaa58d8d51b9b532001fcf2675049d36b2436f321067"
     }
   },
-  "tank": {
-    "paths": [
-      "abrams-transparent51375.png34112.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "abrams-transparent51375.png34112.png": "39646ceb8a095864b24c20f2a99d1f8f90e482073305688e16f4991ac2d2a85a"
-    }
-  },
-  "dog": {
-    "paths": [
-      "pixabay_4495102.png"
-    ],
-    "q": "What we could use it to take off the cat from here?",
-    "a": "A dog coud run behind the cat.",
-    "sha256s": {
-      "pixabay_4495102.png": "1101141820d03c2f6e530dc6b2ea29a18cc76055e87cc29b36ad39b3f6272cdc"
-    }
-  },
-  "jet": {
-    "paths": [
-      "pixabay_146241.png"
-    ],
-    "q": "What we could we use it to flight?",
-    "a": "A plane could flight hight and take us to the other site.",
-    "sha256s": {
-      "pixabay_146241.png": "87f96fa4d390e122725756e4d6d1ebac9f003320d5fa2e7f570d6b9abdd104be"
-    }
-  },
-  "airplane": {
-    "paths": [
-      "pixabay_1293763.png"
-    ],
-    "q": "What we could ue it to flight?",
-    "a": "A plane could flight hight and take us to the other site.",
-    "sha256s": {
-      "pixabay_1293763.png": "7d15b55d9c616a1bfdf6e8bde198e0db1e80651df1f6f84e358ebf90e692d30e"
-    }
-  },
-  "kitten": {
-    "paths": [
-      "pixabay_4794761.png"
-    ],
-    "q": "What we could use to take out a mouse from our house?",
-    "a": "A cat will run behind the mouse.",
-    "sha256s": {
-      "pixabay_4794761.png": "deb3394026df1586e6a49c96934fa651957e117ed4a96031e98a256c98b145a8"
-    }
-  },
-  "droid": {
-    "paths": [
-      "pixabay_153990.png"
-    ],
-    "q": "What could help us in our day by day basis?",
-    "a": "A droid could help us.",
-    "sha256s": {
-      "pixabay_153990.png": "66436f9aff916152043993e34a26d074d3765acba9addc071e7b7ee9204632e9"
-    }
-  },
-  "robotic dog": {
-    "paths": [
-      "pixabay_29431.png"
-    ],
-    "q": "What we could use as a dog?",
-    "a": "A robotic dog could help us to use it as a dog.",
-    "sha256s": {
-      "pixabay_29431.png": "c2ec4c9677e52b776b1807b549ff6be0346ea3d1f20d842422eab074eb46dd31"
-    }
-  },
-  "space shuttle": {
-    "paths": [
-      "pixabay_2029393.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_2029393.png": "7ba6e990fb42c1300b7b89f71eb60e58783941fb2a32fa705c1077674750d067"
-    }
-  },
-  "flash light": {
-    "paths": [
-      "pixabay_159858.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "pixabay_159858.png": "2530a96c3261632f3900ad7411cc16770e55a4210e36438bcdf16950765b8b8f"
-    }
-  },
-  "bulb light": {
-    "paths": [
-      "pixabay_310821.png"
-    ],
-    "q": "What we could use it to iluminate the room?",
-    "a": "A bulb light could help us to bring light to the dark",
-    "sha256s": {
-      "pixabay_310821.png": "aa3a07188526f2397a8e581b4524b3d411662ac7febf1e9f524b45079323705c"
-    }
-  },
-  "sticky glue": {
-    "paths": [
-      "CLEAR-GLUE-FRONT-5-Oz-scaled.png"
-    ],
-    "q": "sh",
-    "a": "sh",
-    "sha256s": {
-      "CLEAR-GLUE-FRONT-5-Oz-scaled.png": "e57db786685c094870c61b64f5b40f0a995f0b93b89df2f86570fe9c821b5055"
-    }
-  },
-  "school bus": {
-    "paths": [
-      "schoolbus.webp"
-    ],
-    "q": "sch",
-    "a": "sch",
-    "sha256s": {
-      "schoolbus.webp": "3fe9aa7db1f0a9f351b936099493c6edb26763e3aa5ddd8bbb3a97f50a79a7ab"
-    }
-  },
-  "spyglass": {
-    "paths": [
-      "pixabay_10417309.png"
-    ],
-    "q": "What we could use it to see close?",
-    "a": "A spyglass could help us to see closer.",
-    "sha256s": {
-      "pixabay_10417309.png": "ba4c154c7d7aa97bbd716a4883c1228f671c83d7fb2f9d05fab0e076b1fefd77"
-    }
-  },
-  "hook": {
-    "paths": [
-      "pixabay_307153.png"
-    ],
-    "q": "What we could use to take something?",
-    "a": "A hook could be used.",
-    "sha256s": {
-      "pixabay_307153.png": "6725434930100ddcd44518333c3221a3c0808edfe8a80a4971f443c6bc69a040"
-    }
-  },
-  "machete": {
-    "paths": [
-      "pixabay_2024291.png"
-    ],
-    "q": "What we could use to clear the path?",
-    "a": "A machete could be used to clear the path.",
-    "sha256s": {
-      "pixabay_2024291.png": "07052bb8ac8a4e779b4be631521dd8e5488033d16e983abc251f9cda5407cf34"
-    }
-  },
-  "chisel": {
-    "paths": [
-      "chisel.webp"
-    ],
-    "q": "What we could use it for cut, carve, shape, or remove material from wood, stone, or metal?",
-    "a": "A chisel could help us to remove the symbol.",
-    "sha256s": {
-      "chisel.webp": "8d3b7c0c527764ada88c12f0c947825c6b16426df8242061fceec850b66c0fbf"
-    }
-  },
-  "helmet diving": {
-    "paths": [
-      "helmet.webp"
-    ],
-    "q": "What can we use to go to the depths of the sea?",
-    "a": "The helmet can help us walk comfortably in the depths of the sea.",
-    "sha256s": {
-      "helmet.webp": "8b709f71a07e0a7568ac0fca89933637ae2d8875038d0d496990ad697dd7a8bd"
-    }
-  },
-  "wrench": {
-    "paths": [
-      "wrench.webp"
-    ],
-    "q": "How we could grip, turn, fasten, or loosen nuts, bolts, and pipes by applying torque?",
-    "a": "The wrench will be the perfect tool to loosen applying torque.",
-    "sha256s": {
-      "wrench.webp": "9352e16055ca3412f7a97d898a539cb07eedc7f3b819a8017a6c4fd978d7fe5e"
-    }
-  },
-  "lever": {
-    "paths": [
-      "palanca.webp"
-    ],
-    "q": "What can we use to apply force and release the mechanism?",
-    "a": "The lever could help us to release the mechanism.",
-    "sha256s": {
-      "palanca.webp": "37804367f6832dbe3ee68ba96c69d21893849b9fffacf5fe0c392414cbfefca9"
-    }
-  },
-  "money": {
-    "paths": [
-      "pixabay_155597.png"
-    ],
-    "q": "What we could use it to pay?",
-    "a": "Money will help us to pay.",
-    "sha256s": {
-      "pixabay_155597.png": "4968521d6e7f3e72bf20ce85be109981fcaebc95e3edf0f9f8f42237eaecc239"
-    }
-  },
-  "movie ticket": {
-    "paths": [
-      "pixabay_153937.png"
-    ],
-    "q": "What we could use it to enter the cinema?",
-    "a": "The movie ticket allow us to enter and see the movie.",
-    "sha256s": {
-      "pixabay_153937.png": "75c9446f727a3a77635a443da6877471d68540a2e3476372bf24268f0d63f44b"
-    }
-  },
-  "popcorn": {
-    "paths": [
-      "pixabay_161953.png"
-    ],
-    "q": "What we could eat when we see the movie?",
-    "a": "Popcorn is really good for watch movies.",
-    "sha256s": {
-      "pixabay_161953.png": "9004f02429d654077e2b376f607d251e982adff46ca6a921f64ab925ec189bbb"
-    }
-  },
-  "baby elephant": {
-    "paths": [
-      "dlmazb2-70e829a1-e296-4297-90a3-0bd5e75b45cf.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "dlmazb2-70e829a1-e296-4297-90a3-0bd5e75b45cf.png": "9e27559dbcb902b239fb17aab6880e79c56dad42013a4218146bd1e59693acb3"
-    }
-  },
   "fireflies": {
     "paths": [
       "dm6rcbx-045c69d7-f272-447b-a356-0148586fa2e1.png"
@@ -3659,16 +2941,6 @@
       "dm6rcbx-045c69d7-f272-447b-a356-0148586fa2e1.png": "31b24d4a481a562bc8617279b5056c39d3cb2bf8d01a7848a5b592c9da476846"
     }
   },
-  "bathtub": {
-    "paths": [
-      "dm6rcbx-5e3accc5-4b2d-4f77-b7e2-266cac1b9393.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "dm6rcbx-5e3accc5-4b2d-4f77-b7e2-266cac1b9393.png": "e9fc2ac4852500654a4178cecd2dcd9b65d9621b38251bf97fe886f9b1b535aa"
-    }
-  },
   "knights of chip and dale": {
     "paths": [
       "dm6rcbx-bf68f6a1-281a-43bc-b637-ce24796347b3.png"
@@ -3677,16 +2949,6 @@
     "a": "",
     "sha256s": {
       "dm6rcbx-bf68f6a1-281a-43bc-b637-ce24796347b3.png": "fb7721526b76f78c443ddff5102a088baa6c3da8e964ad8b4e0e9b047017a7cc"
-    }
-  },
-  "blueberries": {
-    "paths": [
-      "dlu1jxb-93381d78-410d-4a7c-b11f-13c50ade5be4.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "dlu1jxb-93381d78-410d-4a7c-b11f-13c50ade5be4.png": "43f205451a3f85dc860bd3d0b95df0d48149c5998efe8525762792fa5f377273"
     }
   },
   "giant catcher's mitt": {
@@ -3747,6 +3009,18 @@
     "a": "",
     "sha256s": {
       "dm6psv1-98dd9d5b-7121-4997-b782-f9d02961ce6e.png": "87d5fdc1caf60436bb07cd746e659bc6f14e7ba66cbdefe2fedb3f3b4d7d03b2"
+    }
+  },
+  "leaf blower": {
+    "paths": [
+      "dm6psv1-9d1673c9-2bd6-4559-9460-300c13e2fd8d.png",
+      "leaf2.blower.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dm6psv1-9d1673c9-2bd6-4559-9460-300c13e2fd8d.png": "78b749f8d7d031fe38ce382b9e1da10ca83cca90a18029383ce53c89a5e9d06c",
+      "leaf2.blower.png": "e6211afe4392f59d15adc83a6dff846b19c39cc49bf237b3af0750cab347e373"
     }
   },
   "giant picnic basket": {
@@ -3819,6 +3093,16 @@
       "dlufqkk-bc77ba3a-6c1b-4678-926d-63c250de7848.png": "78a6f2fa1d78b76bd9f4f86d0c9dfadd14ec3418b6ef467d2f21afb248934f58"
     }
   },
+  "giant sponge": {
+    "paths": [
+      "dm2guo0-9c892eaf-5326-479d-95a2-8dfaf5d60fa3.png"
+    ],
+    "q": "",
+    "a": "",
+    "sha256s": {
+      "dm2guo0-9c892eaf-5326-479d-95a2-8dfaf5d60fa3.png": "3fac36e4d04c7e52cc25e19f60e4678fc8fb85b026dbe6b409df0f99f8ea5e15"
+    }
+  },
   "jetpack": {
     "paths": [
       "dm2guo0-9e2d751d-2f28-4f60-8840-7c3f27156bbf.png",
@@ -3853,16 +3137,6 @@
       "wizard.pete.webp": "3652ced93b6e204be2bfdc6098d2158a1a1ce0c3138ace66de8f3c19f7625e0e"
     }
   },
-  "big comfy chair": {
-    "paths": [
-      "dmxn1rh-5e4761f1-27cc-4442-868c-74d24376d30b.png"
-    ],
-    "q": "",
-    "a": "",
-    "sha256s": {
-      "dmxn1rh-5e4761f1-27cc-4442-868c-74d24376d30b.png": "910c8fa8a798ddf8ab14f668617fd2502f7c3fd58ffecbdee45441afb5630073"
-    }
-  },
   "camp lantern": {
     "paths": [
       "dmxn1rh-676ce680-0b9a-48fb-885f-6086d167f5c7.png"
@@ -3891,6 +3165,732 @@
     "a": "",
     "sha256s": {
       "dm2g1pb-2e59f978-eb23-44b4-8eeb-16bc9330e5e3.png": "7ce06d7cda5bf10ef6b09f997b32b90eb50a49170774312aba9aa12b07ff2ab9"
+    }
+  },
+  "bouquet of flowers": {
+    "paths": [
+      "flowers.jpeg",
+      "pixabay_7139403.png"
+    ],
+    "q": "related with a card and flowers",
+    "a": "love",
+    "sha256s": {
+      "flowers.jpeg": "e9454c541515468709b75c76d40abf4c6f0cb4373a05e29fbea31c27fcb9e9ff",
+      "pixabay_7139403.png": "6bd1acfc0c13a857c25ab504c9b26ca2f9b9c4a5ef5b574689e75745cef9efdb"
+    }
+  },
+  "bedsheet": {
+    "paths": [
+      "bed.sheet.webp"
+    ],
+    "q": "The bright daylight makes it difficult for Prince Pete to sleep. What we could use to provide shade to Pete?",
+    "a": "The friends hold the bedsheet above Pete like a tent to provide shade.",
+    "sha256s": {
+      "bed.sheet.webp": "dd331957cb9d4ec65c94efa987be71d075d30e364629ae89331b850e3d720ece"
+    }
+  },
+  "pillows": {
+    "paths": [
+      "pillows.png"
+    ],
+    "q": "The wind move the sand away the clubhouse. What we could use to carry the sand back?",
+    "a": "The pillowcases are used to carry the sand back to the Clubhouse.",
+    "sha256s": {
+      "pillows.png": "f68f8b4bfa414e2c914674c0bcf649257a6378e87da494a05787097c9bfce8ad"
+    }
+  },
+  "seashell": {
+    "paths": [
+      "seashell.webp"
+    ],
+    "q": "Diver Pete needs to call his seahorse friend, Seabrisket, to guide them through the coral maze. What could be used?",
+    "a": "Donald blows into the seashell like a horn to call Seabrisket.",
+    "sha256s": {
+      "seashell.webp": "641e40e113c95ebfc4d5edd7a6a33a24c49de7b76065f1c8de31880a8e948c36"
+    }
+  },
+  "scarf": {
+    "paths": [
+      "scarf.png"
+    ],
+    "q": "The egg needs to stay somewhere soft and warm, like a nest. What could be used as a nest?",
+    "a": "They wrap the egg in the scarf to keep it safe and warm.",
+    "sha256s": {
+      "scarf.png": "dfa10913d863397e3cded3ffc99d04eba2a396900033100662be6e7b338af10b"
+    }
+  },
+  "cardboard tube": {
+    "paths": [
+      "cardboard.tube.png"
+    ],
+    "q": "Goofy cannot make his voice loud enough to call Baby Red Bird. What Goofy could use to make his voice louder?",
+    "a": "Goofy speaks through the tube to make his voice louder and call the bird.",
+    "sha256s": {
+      "cardboard.tube.png": "ab7a13d53db0f6e96b9ab1cd9bb99ad3e08c61204546951d6e4e5f634a525374"
+    }
+  },
+  "lampshade": {
+    "paths": [
+      "lampshade.png"
+    ],
+    "q": "The hot sunlight is making the egg too warm. What we could use to block the sunlight?",
+    "a": "They use the lampshade to block the sunlight and keep the egg from getting too hot.",
+    "sha256s": {
+      "lampshade.png": "50407a09604ead271f8d2a9c589c14f0ab6f833999557c1f6ddae1264e859762"
+    }
+  },
+  "ice cream scoop": {
+    "paths": [
+      "snoop.jpg"
+    ],
+    "q": "A massive pile of non-melting snow blocks the train tracks. What we could use to dig?",
+    "a": "A Giant Ice Cream Scoop could be used by Goofy and Donald to dig through the mound of snow.",
+    "sha256s": {
+      "snoop.jpg": "0b93bdefab27558a3c51259ab5dd6b5e292d058de08d9960137973eadba0957c"
+    }
+  },
+  "blimpy blazer": {
+    "paths": [
+      "Blimpy.Blazer.png"
+    ],
+    "q": "A pony is in a high place. We need to help the pony to come down safely. What we could use it?",
+    "a": "A blimpy blazer helps a pony float safely down from a high place.",
+    "sha256s": {
+      "Blimpy.Blazer.png": "857c155e8ecd362b225693269c85e70e5d5dd144b1b2e1e7b487621c50a21d5f"
+    }
+  },
+  "windmill": {
+    "paths": [
+      "windmill.png"
+    ],
+    "q": "Its a storm coming. What we could use to blow the storm?",
+    "a": "The windmill Blows away the storm clouds threatening the farm",
+    "sha256s": {
+      "windmill.png": "b624f7acdc3813a688693d940fd782b5c4e63eb74cfe18f74b525e0dca7a41d3"
+    }
+  },
+  "trash can": {
+    "paths": [
+      "pixabay_40357.png",
+      "trash.can.png"
+    ],
+    "q": "What we could use it to make music?",
+    "a": "Is used to make music for the limbo game by beating on it like a drum.",
+    "sha256s": {
+      "pixabay_40357.png": "d261cde410369a6a6debb5b38a5a981b2108d6f64981ba2bb99d418adaadfba4",
+      "trash.can.png": "4d758e08cf585c8a08ece6b5b426e05b327678bc041cf7305d988fa6b16e66d9"
+    }
+  },
+  "penelope pony": {
+    "paths": [
+      "penelope.pony.png"
+    ],
+    "q": "Daisy needs to go the the Witchs Tower. What we could use it?",
+    "a": "Carries Princess Daisy and her friends on their journey to the Witch’s Tower.",
+    "sha256s": {
+      "penelope.pony.png": "ae5830a18ec2387df4ed9e968e28b698690fed836afb0caf778b67d9c035f15e"
+    }
+  },
+  "comb": {
+    "paths": [
+      "comb.png"
+    ],
+    "q": "The bridge is broken. What we could use to cross the river and reach the tower?",
+    "a": "Serves as a bridge across the bubbling moat so the friends can reach the tower",
+    "sha256s": {
+      "comb.png": "789d9cd262bcc6b967ce4cb73796acc878420ca18476978097dee67bbcfed8e8"
+    }
+  },
+  "megaphone": {
+    "paths": [
+      "megaphone.png"
+    ],
+    "q": "The voice of Pete is not heard. What we could use to make it louder?",
+    "a": "Makes Witch Pete’s tiny voice louder after he accidentally shrinks himself with his shrinking potion.",
+    "sha256s": {
+      "megaphone.png": "58e2d06a08764c235a4302f29b90e8c22ea514a8d65dba850d87e8eadf592172"
+    }
+  },
+  "bottle caps": {
+    "paths": [
+      "bottle.caps.png"
+    ],
+    "q": "Goofbot is missing his three control buttons. What we could use it?",
+    "a": "The bottle caps are round and fit in place of the missing buttons, allowing Goofbot to work again.",
+    "sha256s": {
+      "bottle.caps.png": "f2ad7b7e050d272ebbec2a80ddb82da96487f83a6756ea8e43a228dc97117dc9"
+    }
+  },
+  "shampoo": {
+    "paths": [
+      "bottle.shampoo.png"
+    ],
+    "q": "Goofy gets stuck in the gears. What we could use it to Makes the gears slippery?",
+    "a": "A bootle of shampoo could be used to makes the gears slippery so Goofy can slide free.",
+    "sha256s": {
+      "bottle.shampoo.png": "de5e486d51d10aae075b21241aeb9229862ccab09b4c308b4325bc19310fd701"
+    }
+  },
+  "four shape wrenches": {
+    "paths": [
+      "four.shapers.png"
+    ],
+    "q": "The bolts on the Handy-Dandy Machine are loose. What can we Used to tighten the bolts?",
+    "a": "A pair of shape wrenches could be Used to tighten the bolts so the gears can turn.",
+    "sha256s": {
+      "four.shapers.png": "5d1b0301eb8af9d7a1bd252aa9e5c5cfdec3c65d4b3fbd1264212d6f6d8900b7"
+    }
+  },
+  "buterfly net": {
+    "paths": [
+      "buterfly.net.png"
+    ],
+    "q": "Goofy is launched into the air by a spring. What we could use it to catch Goofy safely?",
+    "a": "A buterfly net could be used to catch Goofy safely.",
+    "sha256s": {
+      "buterfly.net.png": "902d464e2ab29a855c5c3f9dbdf47b3e87128a7aee1284925261cf4f9d24fdd9"
+    }
+  },
+  "baby utensils": {
+    "paths": [
+      "baby.utensils.webp"
+    ],
+    "q": "Baby goofy is hangry. What we could use to fed Baby goofy?",
+    "a": "We could use the baby utensils to fed baby goofy.",
+    "sha256s": {
+      "baby.utensils.webp": "4e52494d5dd6630b0233cf5cd3f7656c85dc631c31ee233942b676bb2575579d"
+    }
+  },
+  "sponge": {
+    "paths": [
+      "sponge.png"
+    ],
+    "q": "Goofy accidentally spills punch all over the picnic area. What we could use to abserve the juice?",
+    "a": "A sponge could help Goofy to clean the surface. It could soaks up the spilled punch and cleans up the mess.",
+    "sha256s": {
+      "sponge.png": "3fac36e4d04c7e52cc25e19f60e4678fc8fb85b026dbe6b409df0f99f8ea5e15"
+    }
+  },
+  "party noisemakers": {
+    "paths": [
+      "party.blower.webp"
+    ],
+    "q": "Goofy needs something to make a loud sound to start the race. What we could use to make noise?",
+    "a": "A Party noisemaker. They make the noise that signals the start of the obstacle course.",
+    "sha256s": {
+      "party.blower.webp": "747b381e190c07758accbb19afed913cfc9c1ba98ea0563988c768cdbb0f6cdc"
+    }
+  },
+  "spring shoes": {
+    "paths": [
+      "spring.shoes.png"
+    ],
+    "q": "Goofy has to jump over a very tall pile of rubber duckies. What he could use?",
+    "a": "A spring shoes. They help Goofy jump high enough to clear the pile.",
+    "sha256s": {
+      "spring.shoes.png": "80e854e8fae351d9f1cf421f1ef88b6fbf6b88aab8d0462d8bb1517d8f19457d"
+    }
+  },
+  "space helmet": {
+    "paths": [
+      "space.helmet.jpeg"
+    ],
+    "q": "Goofy is distracted by the smell of Willie the Giant's Swiss cheese while crawling through the final obstacle. What we could use to block the smell?",
+    "a": "A space helmet. It blocks the smell so Goofy can crawl through without stopping to eat the cheese.",
+    "sha256s": {
+      "space.helmet.jpeg": "ffb083f0929a75f3e884cd035ac8c52e3375373aaa7155291c603b5c2951ba12"
+    }
+  },
+  "bycicle pump": {
+    "paths": [
+      "bycicle.pump.png"
+    ],
+    "q": "Goofy gets stuck inside the trombone. What we could use it to Pumps air into the trombone?",
+    "a": "A bycicle pump. We could use it to Pumps air into the trombone to push Goofy out.",
+    "sha256s": {
+      "bycicle.pump.png": "6371bd8f65db838a95bfba54a22fcc65ae83c418e9d665c7516fbd7910cf1874"
+    }
+  },
+  "clothespin": {
+    "paths": [
+      "clothespin.png"
+    ],
+    "q": "Donald’s sheet music keeps blowing away. What we could use to holds the sheet of music?",
+    "a": "A clothespin could Holds the sheet music in place.",
+    "sha256s": {
+      "clothespin.png": "406ab19fea4e747dc73724a5fb5adbc1d58c002a0356030b0dffb198195d1d48"
+    }
+  },
+  "pitch pipe": {
+    "paths": [
+      "pitch.pipe.png"
+    ],
+    "q": "Mickey’s ukulele string is out of tune. What we could use to Provide the correct pitch?",
+    "a": "A pitch pipe could Provides the correct pitch so Mickey can tune the string.",
+    "sha256s": {
+      "pitch.pipe.png": "d1bf8f1fac0cd50ed82351cc0ffd84d0fb092243dbbc4e53568f4f25ddac1416"
+    }
+  },
+  "periscope": {
+    "paths": [
+      "periscope.png"
+    ],
+    "q": "Goofy's hat is difficult to see/find from the ground. What Goofy could use to see?",
+    "a": "A periscope. Helps them look into places that are difficult to see directly.",
+    "sha256s": {
+      "periscope.png": "ba069f33c0d4e72c2814f1b703d52e0f343224aad912fd31a3fde6d5e3ecfef8"
+    }
+  },
+  "marshmallow": {
+    "paths": [
+      "marshmallow.png"
+    ],
+    "q": "Goofy finds something that looks like his hat, but it is stuck. What we could use it to rescue it?",
+    "a": "A marshmallow it could be Used as part of the search/rescue process.",
+    "sha256s": {
+      "marshmallow.png": "bbf91d2d9d3364c833fc9806c8e26a5a61929e8fef56030faa97d3786510e2ee"
+    }
+  },
+  "hoppity ball": {
+    "paths": [
+      "Hoppity.Ball.png"
+    ],
+    "q": "Goofy's hat is finally discovered in a high/inaccessible place. What Goofy could use to jump?",
+    "a": "A hoppity ball. Helps Goofy bounce up and retrieve the hat.",
+    "sha256s": {
+      "Hoppity.Ball.png": "10435fe5c7e8e9a5444bfaa3912f7ba217e76d2964370a8a335da1127dc7d18d"
+    }
+  },
+  "beach blanket": {
+    "paths": [
+      "beach.blanket.png"
+    ],
+    "q": "Daisy wants to have a picnic in the grass. What Daisy could use to sit in the grass?",
+    "a": "A beach blanket could be useful.",
+    "sha256s": {
+      "beach.blanket.png": "b1e09f5490b66405dc58bfe931061275dd3007a3d4ac28d28569c1405bd33378"
+    }
+  },
+  "pumpkin": {
+    "paths": [
+      "pixabay_5555850.png"
+    ],
+    "q": "We want to give a halloween party. What we could use to create a lantern for halloween?",
+    "a": "A pumpkin could be great to cut and used for a lantern.",
+    "sha256s": {
+      "pixabay_5555850.png": "c86ede200c802dc6fa5d0ff5c1c0b9292a95f9d69ffc030e0a4494d7fc7d211b"
+    }
+  },
+  "rubber duckies": {
+    "paths": [
+      "rubber.duckies.png"
+    ],
+    "q": "The baby elephant needs to take a bath but doesn't want to get into the tub. What could make the bath fun?",
+    "a": "The duckies make bath time fun, so the elephant gets into the tub.",
+    "sha256s": {
+      "rubber.duckies.png": "66f35ac6584ddf1386bab2562334087e7e4b1f338d6a5b794ca79ea01bca145a"
+    }
+  },
+  "gong": {
+    "paths": [
+      "gong.png"
+    ],
+    "q": "They need to call all their friends to the carnival. What we could use to call it?",
+    "a": "The gong makes a loud sound that everyone can hear.",
+    "sha256s": {
+      "gong.png": "af6ab09f55543282f54ed65ecd4d46679ed8c69b824952ab0605c59846d616fe"
+    }
+  },
+  "string": {
+    "paths": [
+      "string.png"
+    ],
+    "q": "They need to know how much more corn is needed to fill the jar. What we could use to measure?",
+    "a": "The string is used to measure the jar and find the halfway point.",
+    "sha256s": {
+      "string.png": "95aa8e48c808ecab08cfd658ceb9f4b3e6d380840408689c2aed5ca6df258c95"
+    }
+  },
+  "parachute": {
+    "paths": [
+      "parachute.png"
+    ],
+    "q": "All the corn accidentally turns into popcorn, and they need something large enough to hold it. What the could use it?",
+    "a": "They turn the parachute upside down and use it as a giant bag to collect the popcorn.",
+    "sha256s": {
+      "parachute.png": "dd7a4cf09cd660e514cc70f68765f011beba841fa2ef5366b62d9d58540ca587"
+    }
+  },
+  "pete pants": {
+    "paths": [
+      "pete.pants.png"
+    ],
+    "q": "Pete’s pants are torn. What we could use it to replace?",
+    "a": "A pair of pete's pants used to replace Pete’s torn pants.",
+    "sha256s": {
+      "pete.pants.png": "4eb06a783d4451479d603f888b348d4833cd2f1e51d580e589a7cca92f0f194b"
+    }
+  },
+  "toothbrush": {
+    "paths": [
+      "toothbrush.png"
+    ],
+    "q": "Pete has very dirty teeth. What we could use to clean Pete?",
+    "a": "A giant toothbrush could be Used to clean Pete’s teeth.",
+    "sha256s": {
+      "toothbrush.png": "21af378104afca52171ea0c23afb320aa5341415a59718647153a93a8592b11f"
+    }
+  },
+  "motor home": {
+    "paths": [
+      "motor.home.png"
+    ],
+    "q": "Mickey and Minnie are going to camping. What the could use to travel?",
+    "a": "A motor home is really good to go camping.",
+    "sha256s": {
+      "motor.home.png": "6b33719dbd7773d17d943353f8ceb7888d7dfe0691d83ae5d51b217e3bc62b5a"
+    }
+  },
+  "flag": {
+    "paths": [
+      "flag.png"
+    ],
+    "q": "Mickey and Minnie arrive to the camping and wants to decorate the venue. What they could use?",
+    "a": "A flag could be used to decorate the place.",
+    "sha256s": {
+      "flag.png": "2314750d9f2b846f8cee05940a17210e148796562f7e5114160f137a8a84e916"
+    }
+  },
+  "paint brush": {
+    "paths": [
+      "paint.brush.jpeg"
+    ],
+    "q": "The place is neglected and needs painting. What Micky and Minnie could do to improve the place?",
+    "a": "The could use a paint brush to paint the place.",
+    "sha256s": {
+      "paint.brush.jpeg": "a43120281f9c2c7c1b8ff6d86478f9e45ef3f6a7a6d344b56880faa54dc6cdb8"
+    }
+  },
+  "rubber duck": {
+    "paths": [
+      "rubber.duckie.png"
+    ],
+    "q": "A baby didnt want to take a bath. What Minnie could use to make bath time fun?",
+    "a": "Minnie can lend a rubber duck to make bath time fun.",
+    "sha256s": {
+      "rubber.duckie.png": "e94a314121f487a31f1c948fd0862c329fffe42fcfe3ce546ef286e839f63685"
+    }
+  },
+  "cup": {
+    "paths": [
+      "cup.webp"
+    ],
+    "q": "Mickey needs to make circles for his drawing. What Mickey could use it?",
+    "a": "A cup could be used as a guide to trace round shapes.",
+    "sha256s": {
+      "cup.webp": "8ee83cfba046f0536e887801bcbb8e5713b0f5c651fea778e7cdc2d1fc6dbecc"
+    }
+  },
+  "record player": {
+    "paths": [
+      "record.player.png"
+    ],
+    "q": "Goofy needs something to spin the clay so he can make a pot. What Goofy could use it?",
+    "a": "A record player could be used as a makeshift pottery wheel because it spins around.",
+    "sha256s": {
+      "record.player.png": "4e18a6a21ec2521696de749691069f67c67d199182efab4bb7fefcf9a7120751"
+    }
+  },
+  "woodpecker": {
+    "paths": [
+      "woodpecker.png"
+    ],
+    "q": "Mickey and Pluto’s tent falls over because the tent poles are different heights. What Mickey could use to cut the larger?",
+    "a": "The woodpecker pecks the longer wooden pole until both poles are the same height.",
+    "sha256s": {
+      "woodpecker.png": "3724bcf3e09d4f28384153d4e0ea217e3ee04e5df4e85d2bdd57034f4ba9f889"
+    }
+  },
+  "metal pot": {
+    "paths": [
+      "metal.pot.png"
+    ],
+    "q": "Willie the Giant is blocking the stream, preventing the fish from reaching Circle Lake.  What we could use it to make a loud bang?",
+    "a": "They bang the pot loudly like a drum to wake Willie and ask him to move his feet.",
+    "sha256s": {
+      "metal.pot.png": "3d0db947f3adce789ae65cab405670a481db449adc4b8d2bcfcd2a31fcef367c"
+    }
+  },
+  "puppy bubble bath": {
+    "paths": [
+      "Puppy.Bubble.Bath.jpeg"
+    ],
+    "q": "Pluto’s bath has no bubbles. What we could use it?",
+    "a": "A puppy bubble bath adds bubbles to Pluto’s bath.",
+    "sha256s": {
+      "Puppy.Bubble.Bath.jpeg": "3c77166d9a5cb13a7198fdaf17e55e2934edfdd212a4c6573beefeee34ed0a7a"
+    }
+  },
+  "bath towel": {
+    "paths": [
+      "bath.towel.webp"
+    ],
+    "q": "Mickey and Pluto are floating toward sharp cactus needles. What we could use it to cover the cactus?",
+    "a": "A bath towel could covers the cactus needles so the bubbles can safely bounce off them.",
+    "sha256s": {
+      "bath.towel.webp": "9e0b435f0c548dbd633665d4fd0d0d50a11e2d502747a09161120c1af76896ad"
+    }
+  },
+  "kite": {
+    "paths": [
+      "kite.png"
+    ],
+    "q": "They need to send an invitation to Willie the Giant, who lives high in the clouds. What we could use it?",
+    "a": "They attach the invitation to the kite and fly it up to Willie.",
+    "sha256s": {
+      "kite.png": "6c95ec711b3e8fb4c210ca987437e414b2603fdc27505de12a30cc8569348f77"
+    }
+  },
+  "gumballs": {
+    "paths": [
+      "gumballs.png"
+    ],
+    "q": "The Toon Car is out of gas. What we could use it?",
+    "a": "The gumballs are used to fill the gas tank; four gumballs are needed.",
+    "sha256s": {
+      "gumballs.png": "a34f21fb75901e744148ba2850ebf1c0d40ab9b447eef446d85cfa2dae15774e"
+    }
+  },
+  "red rope": {
+    "paths": [
+      "red.rope.png"
+    ],
+    "q": "There is a tall wall blocking the way to Clarabelle’s bakery. What we could use it to climb the wall?",
+    "a": "The long red rope allows them to climb over the wall.",
+    "sha256s": {
+      "red.rope.png": "5986d55be6fe4a3f717130a523a58bee2d0251dbcabf4cbfeaaa53971c1f8e43"
+    }
+  },
+  "mouseke mugs": {
+    "paths": [
+      "Mouseke-Mugs.png"
+    ],
+    "q": "They need to keep the hot chocolate warm while traveling up the mountain. What the could use?",
+    "a": "The mugs carry the hot chocolate and keep it warm.",
+    "sha256s": {
+      "Mouseke-Mugs.png": "d1a371f1be284d350aebb2543ebb18be9e3e203540995f44fe28c247e8a9b082"
+    }
+  },
+  "winter scarf": {
+    "paths": [
+      "winter.scarf.png"
+    ],
+    "q": "Mickey gets stuck in a snowbank. What we could use to pull Mickey?",
+    "a": "The scarf coulb be used to pull Mickey out of the snow.",
+    "sha256s": {
+      "winter.scarf.png": "dfa10913d863397e3cded3ffc99d04eba2a396900033100662be6e7b338af10b"
+    }
+  },
+  "jingle bells": {
+    "paths": [
+      "jingle.bells.png"
+    ],
+    "q": "Pete's sleigh needs to announce that they are coming through the snow. What we could use to make sound?",
+    "a": "The bells could be attached to the reindeer so everyone can hear the sleigh approaching.",
+    "sha256s": {
+      "jingle.bells.png": "9091a0ce525386c12cfdd91aa5331de060877a364d6787efa2afcdad34b52390"
+    }
+  },
+  "wind up toy": {
+    "paths": [
+      "wind.up.toy.png"
+    ],
+    "q": "They need to measure 15 Chip-and-Dale-sized steps to find the secret door. What they could use?",
+    "a": "The toy drummer takes steps the same size as Chip and Dale, allowing them to count exactly 15 steps.",
+    "sha256s": {
+      "wind.up.toy.png": "570bc7d8464715db8cb7e517af8facb442733810bd9a4c346774a2f1d15f3a00"
+    }
+  },
+  "bouquet roses": {
+    "paths": [
+      "bouquet.roses2.png"
+    ],
+    "q": "A giant shoe smells terrible in the nursery rhyme “The Old Woman in the Shoe.” What we could use it to improve the smell?",
+    "a": "The roses are tossed into the shoe to make it smell better.",
+    "sha256s": {
+      "bouquet.roses2.png": "ca831da367aad5063de776d977de886e5b6b35d015c1a85b5b66c16dc1ebc09f"
+    }
+  },
+  "tennis racket and ball": {
+    "paths": [
+      "racket.ball.png"
+    ],
+    "q": "A target is far away and they need to hit it to cross. What Minnie could use to reach the cross?",
+    "a": "Minnie hits the ball at the target, opening the way forward.",
+    "sha256s": {
+      "racket.ball.png": "a74544449679271d9d2cc6164f37bc65eb7dbaff90439c8e5ffd52ff20ade011"
+    }
+  },
+  "sand bucket and shovel": {
+    "paths": [
+      "sand.shovel2.png"
+    ],
+    "q": "The Moon Men will only return Pluto’s ball if the group shows them a fun game. What we could use to build sand castles?",
+    "a": "They use the sand bucket and shovel to build sand castles with the Moon Men.",
+    "sha256s": {
+      "sand.shovel2.png": "b906466f01ee899738ffc0942978b6bb34cf5744c58d480e54b2439785f099a3"
+    }
+  },
+  "secret spy googles": {
+    "paths": [
+      "pixabay_303511.png"
+    ],
+    "q": "A wall blocks their path, and they cannot see a door. What google could Daisy use?",
+    "a": "Daisy's goggles reveal the invisible/secret door in the wall.",
+    "sha256s": {
+      "pixabay_303511.png": "6301b8a60b8b50c9aca5425fa65da4eeba02906b2a125c0380f61bfc20f17991"
+    }
+  },
+  "carpet": {
+    "paths": [
+      "carpet2.png",
+      "carpet.png"
+    ],
+    "q": "Its a great hole in the path. What Chase and Pluto could use it to cover it?",
+    "a": "The red carpet could be use to cover the hole and continue the route.",
+    "sha256s": {
+      "carpet2.png": "0cbf3a7b50885af7824f8dc1ed2b144bd4755876bb36d5c841b5186a082bea0b",
+      "carpet.png": "7cb40e6f25ff8444987f0248f2e005a8aa0bca03c836661896041b8f927d1673"
+    }
+  },
+  "vacuum cleaner": {
+    "paths": [
+      "vacuum.cleaner.png"
+    ],
+    "q": "The wind has covered the circle of stones with sand, hiding the location of the treasure. What we could use to remove the sand?",
+    "a": "Mickey use the vacuum cleaner to remove the sand and uncover the circle of stones, revealing where the treasure is buried.",
+    "sha256s": {
+      "vacuum.cleaner.png": "5340e06b3ad2eaeed50c7cb5b0155ead796b1e9009b6d39089465e8dbcb9a792"
+    }
+  },
+  "thermometer": {
+    "paths": [
+      "thermometer.png"
+    ],
+    "q": "The sand is extremely hot, and they need to find the coolest place for the luau. What we could use to measure the temperature?",
+    "a": "They use the thermometers to compare temperatures and find the cooler spot in the shade.",
+    "sha256s": {
+      "thermometer.png": "e7426d45e2070a0387ed41d77fb5ef52e596b8551a13bb44ed2c980f2907de4f"
+    }
+  },
+  "hand fan": {
+    "paths": [
+      "hand.fan.png"
+    ],
+    "q": "Pluto is too hot after his fan is turned off. What we could use it to cool Pluto?",
+    "a": "The hand fan keeps Pluto cool without making a buzzing sound.",
+    "sha256s": {
+      "hand.fan.png": "fe8345e756aa3547ff577fc3cac76d7e9322f9ccbff8ba9b236070c92fb739b3"
+    }
+  },
+  "button": {
+    "paths": [
+      "button.png"
+    ],
+    "q": "The locomotive's wheel breaks.  What we could use it as wheel?",
+    "a": "A giant button could be used as a replacement wheel.",
+    "sha256s": {
+      "button.png": "fa5404b6f3239c4fdb4d4fb38634b0c83be06ef310d54deaab50dafd20bb7580"
+    }
+  },
+  "chase": {
+    "paths": [
+      "chase.paw.patrol.webp"
+    ],
+    "q": "Pluto needs help from an old friend. Who could help Pluto?",
+    "a": "Chase could be useful when Pluto needs help.",
+    "sha256s": {
+      "chase.paw.patrol.webp": "014eb73f1f98f049f1f3c5c64412cd1d3d6b1179ed5555e2fba40eb1cb99feb6"
+    }
+  },
+  "siren": {
+    "paths": [
+      "siren.png"
+    ],
+    "q": "The gang is flying through thick clouds, where people and aircraft cannot see them. What we could use to make loud sound?",
+    "a": "The siren warns others that they are coming.",
+    "sha256s": {
+      "siren.png": "48102cced133c6c31844e582b74926e9978b7f0a4ffcbfd3edbde16e127cab69"
+    }
+  },
+  "ice cream cone": {
+    "paths": [
+      "ice.cream.webp"
+    ],
+    "q": "Captain Donald's boat has leaks and they need to cross the river. What Donald could use to cover the holes?",
+    "a": "Donald put the ice cream cones into the round holes to plug the leaks.",
+    "sha256s": {
+      "ice.cream.webp": "0e9b5668f00c27e824d3c9b185fe0562b770ff1491e99fe957ae6448552f5dfc"
+    }
+  },
+  "mirror": {
+    "paths": [
+      "mirror.png"
+    ],
+    "q": "A giant toad is blocking the road. What we could use to move the toad?",
+    "a": "The mirror attracts the toad because it becomes fascinated by its own reflection, allowing them to move it away.",
+    "sha256s": {
+      "mirror.png": "12305589d176405a3e0f782be01f85404eaae57c40f9633725095a632293eac2"
+    }
+  },
+  "colorful cards": {
+    "paths": [
+      "colorful.cards.png"
+    ],
+    "q": "Salty keeps mixing up the horns. How we could help Salty to follow the colors?",
+    "a": "The cards mark each horn with a different color so Salty can play them in the correct order.",
+    "sha256s": {
+      "colorful.cards.png": "63829403900a19a3e8667fc5f4f945c694b1ca31fe7663d57b391cedd0398caf"
+    }
+  },
+  "bag of flour": {
+    "paths": [
+      "bag.flour.png"
+    ],
+    "q": "They need to connect the numbered dots on the grass to complete a giant picture. What we could use to connect the dots?",
+    "a": "They pour flour from one number to the next, connecting all the dots.",
+    "sha256s": {
+      "bag.flour.png": "34f78db026141f575aa2ad5236226abbadc007938effd17ae79707abed6ce8f3"
+    }
+  },
+  "monkey": {
+    "paths": [
+      "monkey.webp"
+    ],
+    "q": "They need to reach the top of a pole and open a treasure chest without tipping it over. What we could use it that climb?",
+    "a": "The monkey climbs the pole and opens the treasure chest.",
+    "sha256s": {
+      "monkey.webp": "d7af514bb9e191f9df8929561bcf9c7a6420c00bc1629069c1952a034067d654"
+    }
+  },
+  "carton milk": {
+    "paths": [
+      "carton.milk.png"
+    ],
+    "q": "Goofy needs to finish his recipe. What we could use to complete the chocolate milk?",
+    "a": "He has chocolate syrup, and the milk allows him to make chocolate milk, which they use to attract Cuckoo.",
+    "sha256s": {
+      "carton.milk.png": "0e74fe6b832c9c6c8b5154aab5e749b9449317f9c85d972cf804965fd5794d58"
+    }
+  },
+  "three balls": {
+    "paths": [
+      "three.balls.png"
+    ],
+    "q": "Clarabelle needs a yellow croquet ball to match her yellow mallet. What we could use it?",
+    "a": "Clarabelle choose the yellow ball so they can play croquet.",
+    "sha256s": {
+      "three.balls.png": "3d781cae47093a598ca348cb5185eb3b30220abf72814bfe7322a7a9470fa719"
     }
   },
   "baby rattle": {
@@ -3931,26 +3931,6 @@
     "a": "Slows down Funny Bunny Pete by distracting him with carrots.",
     "sha256s": {
       "bunch.carrots.webp": "9cc78b4031a9814513b3f4c4293f57e88ace1b797c0ea21b08c144fa749ef123"
-    }
-  },
-  "pillows": {
-    "paths": [
-      "pillows.png"
-    ],
-    "q": "The wind move the sand away the clubhouse. What we could use to carry the sand back?",
-    "a": "The pillowcases are used to carry the sand back to the Clubhouse.",
-    "sha256s": {
-      "pillows.png": "f68f8b4bfa414e2c914674c0bcf649257a6378e87da494a05787097c9bfce8ad"
-    }
-  },
-  "trash can": {
-    "paths": [
-      "trash.can.png"
-    ],
-    "q": "What we could use it to make music?",
-    "a": "Is used to make music for the limbo game by beating on it like a drum.",
-    "sha256s": {
-      "trash.can.png": "4d758e08cf585c8a08ece6b5b426e05b327678bc041cf7305d988fa6b16e66d9"
     }
   },
   "playing cards": {
@@ -4261,6 +4241,336 @@
     "a": "The big birdcage could be used to contain a space creature so the gang can continue their journey.",
     "sha256s": {
       "Big.Birdcage.png": "1cb7561bacf98cc296a9335bd65daa92e5e5c74ac4b63e7770544355b130bb5f"
+    }
+  },
+  "three colorful turtles": {
+    "paths": [
+      "turtles.png"
+    ],
+    "q": "The group needs to cross a river. What they could use it?",
+    "a": "They jump from one turtle's shell to another to cross the water.",
+    "sha256s": {
+      "turtles.png": "d741982bf3afdb0ee5553fba2efeba1230a298963bce32438f29928ca2195418"
+    }
+  },
+  "super jet": {
+    "paths": [
+      "super.jet.png"
+    ],
+    "q": "Megamort captures Mickey aboard his zeppelin, and the heroes need a way to reach the airborne vehicle. What we could use it to reach the airborne?",
+    "a": "The super-jet allows the heroes to fly up to the zeppelin and attempt to rescue Mickey.",
+    "sha256s": {
+      "super.jet.png": "0e7a192112cbf06399e031590887e5a56008736a8ebcc7ba82751739512c7edd"
+    }
+  },
+  "tuba": {
+    "paths": [
+      "tuba.png"
+    ],
+    "q": "Large rocks called the Dancing Stones block their path through Rocky Gulch. What we could use to make dance?",
+    "a": "Donald plays the tuba. The music makes the stones rise into the air, allowing the gang to pass underneath.",
+    "sha256s": {
+      "tuba.png": "12c29547b14e9b5c5a3f0a6a3cdce76c57164dd33093449abb12c77c78a1ecce"
+    }
+  },
+  "music note": {
+    "paths": [
+      "nota.musical.png"
+    ],
+    "q": "The heart pictogram indicates a tool associated with love or affection. What could we associate with love and affection?",
+    "a": "A music note. Music. We could associate love and affection with music.",
+    "sha256s": {
+      "nota.musical.png": "6b63b86e48107cc29cb0f255b983c975c6ee4214ccad4363915e3b79a6191754"
+    }
+  },
+  "miner helmet": {
+    "paths": [
+      "miner.helmet.png"
+    ],
+    "q": "The inside of the mysterious building is too dark for the gang to see. What we could use to iluminate?",
+    "a": "They use the helmet’s light to illuminate the dark interior. Donald then finds a light switch, allowing them to see the room and discover more clues.",
+    "sha256s": {
+      "miner.helmet.png": "a21acc56ae9d285f2d919624ea43f2ff6296c97c8910004757c03741314d9222"
+    }
+  },
+  "polka dot sock": {
+    "paths": [
+      "purple_polka_dot_sock_by_dillcardinal1978_dkd1kot-fullview.png"
+    ],
+    "q": "Butch and Bella keep running around, making it difficult for Goofy to manage them. What goofy could use it to attract them?",
+    "a": "The polka-dot sock is used to stop the dogs from running, helping the gang regain control.",
+    "sha256s": {
+      "purple_polka_dot_sock_by_dillcardinal1978_dkd1kot-fullview.png": "e66dde046bd4ccfa842edda72e64dc360b4a3f9e453909b122cff073ca8f8ef5"
+    }
+  },
+  "jar of fireflies": {
+    "paths": [
+      "Jar.Fireflies.png"
+    ],
+    "q": "The lights do not work, and the paper lanterns need to be illuminated for Pluto's Pet Show. What we could use it to iluminate?",
+    "a": "The gang uses the glowing fireflies to light up the paper lanterns, making the show ready to begin.",
+    "sha256s": {
+      "Jar.Fireflies.png": "414d9f9367c8d07b5245d2ad48253df64c87e9c7b3fffdb79b7bb2a0fd771661"
+    }
+  },
+  "pink ribbon": {
+    "paths": [
+      "pink.ribbon.png"
+    ],
+    "q": "Minnie needs a bow to complete her Cinderella-style transformation. What Minnie could use it?",
+    "a": "The pink ribbon is used to make a bow for Minnie.",
+    "sha256s": {
+      "pink.ribbon.png": "935d74ccc8a11e85003b521aced9519bd9b60ece7b8162dcbab70d413f047a04"
+    }
+  },
+  "hilda the hippo": {
+    "paths": [
+      "hilda.hippo.png"
+    ],
+    "q": "The carriage is difficult to move because a wheel gets stuck. What we could use to move the carriage?",
+    "a": "Hilda uses her strength to help push the carriage and free the wheel.",
+    "sha256s": {
+      "hilda.hippo.png": "83ac5b4d25ef41452148931c1dc5b743554cfa7f29c327fb3d9ce14fc9259744"
+    }
+  },
+  "charm bracelet": {
+    "paths": [
+      "charm.bacelet.png"
+    ],
+    "q": "The group needs to get through a locked gate. We need something to unlock the gate. What we could use it?",
+    "a": "The charm bracelet is used to unlock the gate.",
+    "sha256s": {
+      "charm.bacelet.png": "68ed7000f0d2a4f436dfd99dc932f77d2fb06816a788239fa679e54043726fa8"
+    }
+  },
+  "heart shaped pillow": {
+    "paths": [
+      "heart-shape.pillow.png"
+    ],
+    "q": "They need to catch the slipper safely. What we could use to catch safely?",
+    "a": "The heart-shaped pillow cushions the slipper as it falls.",
+    "sha256s": {
+      "heart-shape.pillow.png": "1ba646f0b297ce4ce423b77173bd04c5d8d92be161da2dee4d99aa8fef523992"
+    }
+  },
+  "two wooden spoons": {
+    "paths": [
+      "two.wooden.spoons.png"
+    ],
+    "q": "Pete's drumsticks are broken, so he cannot keep playing the drums. What we could use to replace the drumsticks?",
+    "a": "Pete uses the wooden spoons as replacement drumsticks and continues performing with his band.",
+    "sha256s": {
+      "two.wooden.spoons.png": "f1221cb56214f56b374a88ad26082916d8c9f2cfe585fd8d79018474b75f3d44"
+    }
+  },
+  "comb and wax paper": {
+    "paths": [
+      "comb.wax.paper.png"
+    ],
+    "q": "Donald wants to play the kazoo with Goofy's band, but he has no kazoo. What we could use to create a kazoo?",
+    "a": "The friends wrap wax paper around the comb. Donald hums against it to create a kazoo-like sound.",
+    "sha256s": {
+      "comb.wax.paper.png": "019e35947dd460f504fae8e114bb0375e1fa2213a6f3559278e58e9bf502101e"
+    }
+  },
+  "donald duck": {
+    "paths": [
+      "donald.webp"
+    ],
+    "q": "Mickey and Minnie cannot figure out how to finish their new song. Who could help?",
+    "a": "Donald joins their band and sings the ending, completing the song. He discovers that his friends need him after all.",
+    "sha256s": {
+      "donald.webp": "316e93a1ba48ae7dc7306a344e325331f03540a777c72600f4e0d386321e69cc"
+    }
+  },
+  "rescue truck": {
+    "paths": [
+      "rescue.truck.png"
+    ],
+    "q": "The group needs to fill a tub with water. Where they could have water?",
+    "a": "They use the rescue truck to fill the tub.",
+    "sha256s": {
+      "rescue.truck.png": "77672cd25c6c21799e97c0129769c571982199f0190e21366bab49a7bfa053c2"
+    }
+  },
+  "glove balloon": {
+    "paths": [
+      "glove.balloon.png"
+    ],
+    "q": "The boys need help getting back down safely from a high place. What they could use to go to the high place?",
+    "a": "They use the Glove Balloon to fly up and bring the boys back down.",
+    "sha256s": {
+      "glove.balloon.png": "57d1eedf27b77057faa0f8c66d51aa32d0b570157e9d5a8d857e52b0c723cffc"
+    }
+  },
+  "fork": {
+    "paths": [
+      "fork.png"
+    ],
+    "q": "Pete gets tangled in underwater seaweed and cannot get free. What we could use to free Pete?",
+    "a": "Mickey and his friends use the giant fork to help get Pete out of the seaweed.",
+    "sha256s": {
+      "fork.png": "8a3f64a2ba652c7e0bdbe6781f8b4518733e6eca32b8e561d1dfc51891d6a937"
+    }
+  },
+  "bowling pins": {
+    "paths": [
+      "bowling.pins.png"
+    ],
+    "q": "Pete needs objects to juggle. What we could use it?",
+    "a": "The bowling pins give Pete the objects he needs to perform his juggling act.",
+    "sha256s": {
+      "bowling.pins.png": "67422ea95eef6f6e49c1cfd3791f547063d560c4a22abd56396e9683e6cbef6f"
+    }
+  },
+  "traffic signal": {
+    "paths": [
+      "traffic.signal.png"
+    ],
+    "q": "The friends need to control the movement of fish in their path. What we could use to control?",
+    "a": "They use the traffic signal to tell the fish when to stop and when to go.",
+    "sha256s": {
+      "traffic.signal.png": "c021ff3ab411e4558ff80b3246e5b9f6a0937b1098bf7b221717ce0398a1cdfa"
+    }
+  },
+  "spatula": {
+    "paths": [
+      "spatula.webp"
+    ],
+    "q": "A rubber duck needs to be lifted out of the water. What we could use it?",
+    "a": "The giant spatula is used to lift the rubber duck.",
+    "sha256s": {
+      "spatula.webp": "052b31c673326c2e221146bac6d20496edaaef40561f7b1a48bb6d2c2d7e3c48"
+    }
+  },
+  "oar": {
+    "paths": [
+      "oar.png"
+    ],
+    "q": "The gang needs something to strum the guitar strings. What they could use it?",
+    "a": "They use the oar like a giant guitar pick to strum the strings.",
+    "sha256s": {
+      "oar.png": "f5872bb1f113f02fbc33e2d3807711a5fb4702e83f1333c5588cc6e0c9613b67"
+    }
+  },
+  "anchor and a rope": {
+    "paths": [
+      "Anchor.Rope.png"
+    ],
+    "q": "The gang needs to find its way out of a cavern. What they could use to leave a path?",
+    "a": "They use the anchor and rope to leave a path through the cavern so they can find their way out.",
+    "sha256s": {
+      "Anchor.Rope.png": "8c8a96839d6364ba0dae4f3d375817af3afcb45cd8483a4db18cf1fdb1b2ab2e"
+    }
+  },
+  "concertina": {
+    "paths": [
+      "concertina.png"
+    ],
+    "q": "Captain Goof-Beard’s treasure chest is stuck inside a castanet. What they could use to get the treasure chest out?",
+    "a": "They use the concertina to get the treasure chest out of the castanet.",
+    "sha256s": {
+      "concertina.png": "4e2266c065fd352e322ac0e36e65cc04e386484f4f3c3cf6749beb2fb1f6ccbb"
+    }
+  },
+  "presents": {
+    "paths": [
+      "presents.png"
+    ],
+    "q": "Goofy is stranded on top of the Moo Mart and cannot get down. What he could stack to create a stairs and go down?",
+    "a": "Mickey and his friends stack the presents to create makeshift stairs, allowing Goofy to climb down safely.",
+    "sha256s": {
+      "presents.png": "838ccafca4f6e24ce0cf31b35a4c9cae07f1c5362fe33d45eafa5fed296f8a16"
+    }
+  },
+  "party banner": {
+    "paths": [
+      "party.banner.webp"
+    ],
+    "q": "Chip and Dale float away while holding too many balloons. What the gang could use to create a safety net?",
+    "a": "The friends stretch the banner out like a safety net, allowing the chipmunks to release the balloons and land safely.",
+    "sha256s": {
+      "party.banner.webp": "b37cfafa84353dee3b3ea818ac61dfece300a52f5203d5c21d9ce52ff9ffc326"
+    }
+  },
+  "birthday party hat": {
+    "paths": [
+      "bday.party.hat.png"
+    ],
+    "q": "Donald gets separated from his friends, and they cannot make their voices loud enough for him to hear them. What they could use to make a megaphone?",
+    "a": "They make a hole in the top of the party hat and use it like a megaphone to call Donald. He hears them, and they find him.",
+    "sha256s": {
+      "bday.party.hat.png": "cc25c9397bd215fa1fedd0a68c7f62b0ae0f5956328a46b325e58088bd64ae32"
+    }
+  },
+  "two red apples": {
+    "paths": [
+      "two.red.apples.png"
+    ],
+    "q": "The reindeer, Twinkle and Sprocket, are too shy to come over and pull the Go-Bow Buggy. What Minnie could offer as treats?",
+    "a": "Minnie and her friends offer them the apples as treats, encouraging the reindeer to come closer.",
+    "sha256s": {
+      "two.red.apples.png": "845deee8f7704d90ad3bf6dccb27303d3b7e44b113c21770f3b631f046bc14f4"
+    }
+  },
+  "sled": {
+    "paths": [
+      "sled.png"
+    ],
+    "q": "Minnie, Millie, and Melody are stranded on a snowy mountain after the Glove Balloon floats away. They need to get down the mountain.  What they could use to go fast down?",
+    "a": "They use the sled to travel quickly down the snowy slope.",
+    "sha256s": {
+      "sled.png": "d42f965a93552614481650099acb12f96550ce218cee241284926d6e2cf26f50"
+    }
+  },
+  "pink ice skate": {
+    "paths": [
+      "pink.ice.skates.png"
+    ],
+    "q": "A baby Yeti slides toward a frozen lake, and the ice is too slippery for the Yeti family to cross safely. What Minnie could use to glide across the ice?",
+    "a": "Minnie and the girls put on the ice skates and glide across the ice to rescue the baby Yeti and reunite it with its family.",
+    "sha256s": {
+      "pink.ice.skates.png": "10a7708d3e3d6ab0c537db5c99be72d217a70fc125b15f64769953e0138e94ce"
+    }
+  },
+  "strand of glow bows": {
+    "paths": [
+      "Strand .Glow.Bows.png"
+    ],
+    "q": "The Bow Tree needs lights for the Winter Bow Show, but the friends have no lights available. What they could use to decorate the tree?",
+    "a": "They decorate the tree with the glowing bows, illuminating it for the show.",
+    "sha256s": {
+      "Strand .Glow.Bows.png": "27eb6d4d89d680484a6d0f6979cc766877586bbd0ae8014e727cc0b1964003b4"
+    }
+  },
+  "doobell buzzer button": {
+    "paths": [
+      "Doorbell.Buzzer.Button.png"
+    ],
+    "q": "The friends need to get someone's attention while chasing the runaway Mousekeball. What they could use to make a loud sound?",
+    "a": "They use the buzzer to make a loud sound and attract attention.",
+    "sha256s": {
+      "Doorbell.Buzzer.Button.png": "d9913395327ccd5439c226aec852dbfeeea6494e520e19ca29b347f9c165ddd1"
+    }
+  },
+  "bottle of dish soap": {
+    "paths": [
+      "Bottle.Dish.Soap.png"
+    ],
+    "q": "The friends need to make a slippery surface to help move the ball. What they could use to make slippery the surface?",
+    "a": "They use the dish soap to make the surface slippery so the ball can move.",
+    "sha256s": {
+      "Bottle.Dish.Soap.png": "1e9d45b144977a61726eb135338a64e9bab4aa5ed5481bbbce982f3361e26748"
+    }
+  },
+  "purple pillowcase": {
+    "paths": [
+      "Purple.Pillowcase.png"
+    ],
+    "q": "The friends need a way to catch and contain the runaway ball. What they could use to catch the ball?",
+    "a": "They use the pillowcase as a bag to catch the ball.",
+    "sha256s": {
+      "Purple.Pillowcase.png": "984f75d0470552a8d0860e19023a9271dc18777de83c6cd3a3245e9d76c14eda"
     }
   }
 }
